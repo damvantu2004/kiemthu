@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Gio_hang_trong</name>
+   <tag></tag>
+   <elementGuidId>ec35dca1-546e-4566-9292-fa557e09d32f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.ty-no-items.et-cart-page-empty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[3]/div/div[2]/div/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b77bc118-24b9-4b0b-a35a-b6fae2082d8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-no-items et-cart-page-empty</value>
+      <webElementGuid>81e1d2e1-c662-4778-8c3b-f9ca11094808</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Giỏ hàng của bạn chưa có sản phẩm</value>
+      <webElementGuid>f3238af3-460d-4549-8052-1b05ca98e6d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-content clearfix&quot;]/div[@class=&quot;container-fluid  content-grid ypi-cart-grid&quot;]/div[@class=&quot;container-fluid-row main-content-grid&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16 main-content-grid&quot;]/div[@class=&quot;ty-mainbox-container clearfix&quot;]/div[@class=&quot;ty-mainbox-body&quot;]/p[@class=&quot;ty-no-items et-cart-page-empty&quot;]</value>
+      <webElementGuid>844bea49-f13d-4de9-8d33-6f02a57e3e58</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[3]/div/div[2]/div/div/div/div/p</value>
+      <webElementGuid>2553ae52-4f09-417f-aa25-9ea184464e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nội dung giỏ hàng'])[2]/following::p[1]</value>
+      <webElementGuid>6474d8f4-538c-4e9f-a5c2-9c471e281555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::p[1]</value>
+      <webElementGuid>70e193e1-e1db-418e-a84f-6863ea2b8587</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/preceding::p[1]</value>
+      <webElementGuid>303704be-18ac-4a7f-a403-20e592df7917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Giỏ hàng của bạn chưa có sản phẩm']/parent::*</value>
+      <webElementGuid>0b31a121-dac2-4159-b991-13d6bbfe966c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8de62ee0-9c7b-4a92-b10f-db9168bae3e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Giỏ hàng của bạn chưa có sản phẩm' or . = 'Giỏ hàng của bạn chưa có sản phẩm')]</value>
+      <webElementGuid>5dce293f-6a3b-4e25-8bc6-07437adb71c6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

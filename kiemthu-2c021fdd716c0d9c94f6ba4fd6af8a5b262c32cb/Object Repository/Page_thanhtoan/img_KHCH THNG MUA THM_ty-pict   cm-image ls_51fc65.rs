@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_KHCH THNG MUA THM_ty-pict   cm-image ls_51fc65</name>
+   <tag></tag>
+   <elementGuidId>07baea84-6e00-4b8d-b2aa-c98f42476455</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ty-template-small__item-img > a > img.ty-pict.cm-image.ls-is-cached.lazyloaded</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div/div[3]/div/ul/li/form/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>bf6e6c51-085f-48c0-8a1d-0ca51b585694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-pict   cm-image ls-is-cached lazyloaded</value>
+      <webElementGuid>db08d77f-4cfa-405f-be4a-907c86b3df85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://zshop.vn/images/thumbnails/75/75/detailed/155/dji_rs_4_pro__6_.jpg</value>
+      <webElementGuid>d7984ce1-31dd-494f-8d92-775cad648d0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-src</name>
+      <type>Main</type>
+      <value>https://zshop.vn/images/thumbnails/75/75/detailed/155/dji_rs_4_pro__6_.jpg</value>
+      <webElementGuid>e70f4862-da0c-4b0e-9847-411776fbbc4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>https://zshop.vn/images/thumbnails/150/150/detailed/155/dji_rs_4_pro__6_.jpg 2x</value>
+      <webElementGuid>5577dfac-e41b-46da-8fde-7bed20e6776e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-srcset</name>
+      <type>Main</type>
+      <value>https://zshop.vn/images/thumbnails/150/150/detailed/155/dji_rs_4_pro__6_.jpg 2x</value>
+      <webElementGuid>6e24d8cd-6c1e-402f-93cc-726c8ca996e1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-content clearfix&quot;]/div[@class=&quot;container-fluid  content-grid&quot;]/div[@class=&quot;container-fluid-row&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16 main-content-grid product-detail-cs&quot;]/div[@class=&quot;ty-sidebox-important hidden-phone hidden-tablet&quot;]/div[@class=&quot;ty-sidebox-important__body&quot;]/ul[@class=&quot;ty-template-small&quot;]/li[@class=&quot;ty-column5 clearfix&quot;]/form[@class=&quot;cm-disable-empty-files cm-ajax cm-ajax-full-render cm-ajax-status-middle cm-processed-form&quot;]/div[@class=&quot;ty-template-small__item-img&quot;]/a[1]/img[@class=&quot;ty-pict   cm-image ls-is-cached lazyloaded&quot;]</value>
+      <webElementGuid>dc078f58-7b50-44da-ba65-9b1f860f669e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div/div[3]/div/ul/li/form/div/a/img</value>
+      <webElementGuid>5c59926c-caf3-4c38-aa42-a3e763ec2a1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://zshop.vn/images/thumbnails/75/75/detailed/155/dji_rs_4_pro__6_.jpg')]</value>
+      <webElementGuid>2512bcb5-7705-4e6f-a354-d7def8967ec9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/a/img</value>
+      <webElementGuid>e5fdecd9-a667-4f2d-bdd2-28d33822b877</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://zshop.vn/images/thumbnails/75/75/detailed/155/dji_rs_4_pro__6_.jpg']</value>
+      <webElementGuid>274389f7-8780-490e-9909-070617c489d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

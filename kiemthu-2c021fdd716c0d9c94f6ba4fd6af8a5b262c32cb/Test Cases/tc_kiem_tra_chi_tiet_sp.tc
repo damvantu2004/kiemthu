@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_kiem_tra_chi_tiet_sp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e0bc40b4-50e1-4476-8a6d-c6ee35504bb4</testCaseGuid>
+</TestCaseEntity>

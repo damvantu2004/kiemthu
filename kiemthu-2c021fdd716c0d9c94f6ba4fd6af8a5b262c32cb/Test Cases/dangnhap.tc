@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>dangnhap</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c44eb087-9ea0-4677-854d-2da4d62faaaf</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d50808cd-fa93-4940-971b-ac6eb463cdb2</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2fc89bda-b941-4bef-91c1-b389336b1d2a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d50808cd-fa93-4940-971b-ac6eb463cdb2</id>
+      <masked>true</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2fc89bda-b941-4bef-91c1-b389336b1d2a</id>
+      <masked>true</masked>
+      <name>matkhau</name>
+   </variable>
+</TestCaseEntity>
