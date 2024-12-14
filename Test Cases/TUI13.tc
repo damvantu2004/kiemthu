@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Kiểm tra các danh mục sản phẩm hiển thị đúng trên trang &quot;iPhone 16 Pro Max (Nhập khẩu)&quot;</description>
-   <name>TUI13</name>
-   <tag>ui_p_catalog</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>b2484b33-e1ac-409e-a277-c6ca575a8efc</testCaseGuid>
-</TestCaseEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>87c74103-f6a7-4e02-81f3-ec3171bf2f12</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='search_input']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#search_input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='search_input']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f799226a-a801-4a1b-8317-3451c4eda301</webElementGuid>
+      <webElementGuid>746645aa-4b8f-4cc1-b5d9-1b1318426313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5cd3a64a-74d5-4d17-90dc-871a519d2d08</webElementGuid>
+      <webElementGuid>f1e27969-7d84-4613-aad2-d92c705f0f3e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>name</name>
       <type>Main</type>
       <value>hint_q</value>
-      <webElementGuid>1a280284-d43d-4cb7-ad36-d9664634d6fc</webElementGuid>
+      <webElementGuid>02687c79-1568-41bc-b20b-b5c53687f704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>id</name>
       <type>Main</type>
       <value>search_input</value>
-      <webElementGuid>0a6de9eb-fbb8-4512-bc7f-54fe8cf872e7</webElementGuid>
+      <webElementGuid>a8013373-7621-4871-a07b-f32a8ec48bf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Tìm kiếm sản phẩm</value>
-      <webElementGuid>f793eea6-a8c5-44ee-a3d6-9c4a80d47087</webElementGuid>
+      <webElementGuid>f0b61fc9-bbf4-4e94-8043-ed8670f8207f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-search-block__input snize-input-style cm-hint</value>
-      <webElementGuid>dcce6423-2549-4eb1-a058-28f763baaacf</webElementGuid>
+      <webElementGuid>79dcc291-6cbf-44f5-82e4-89f6e4262b4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>aria-owns</name>
       <type>Main</type>
       <value>snize-instant-search-results</value>
-      <webElementGuid>32c3b088-0c55-467d-951a-4c6bed76ee0b</webElementGuid>
+      <webElementGuid>08696011-1490-4562-8361-2907aee09b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>snize-instant-search-results</value>
-      <webElementGuid>1270416d-bda3-4edd-9c90-cc95726a7ab5</webElementGuid>
+      <webElementGuid>821781c0-56fc-4c5e-be32-67e79ac6fe0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>986c70b7-60d5-4ab2-a776-0d135305f686</webElementGuid>
+      <webElementGuid>cc500f6a-0bdf-41b6-bf30-9a1f26eb3a01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>aria-autocomplete</name>
       <type>Main</type>
       <value>list</value>
-      <webElementGuid>41532d82-9862-4323-acc2-1288bcbfa432</webElementGuid>
+      <webElementGuid>6e61a8e6-a78e-44c2-9c97-d68645a1b711</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>bbaeb8c7-111a-4d92-94b4-d2d4853f1189</webElementGuid>
+      <webElementGuid>d26aab3e-8564-4bed-89b1-51a9a4cc3f7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c648917b-bc1d-4531-bd53-7e02bf4a9a02</webElementGuid>
+      <webElementGuid>8adc114b-5585-47c9-a015-c65b3052125e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>2ffac36b-7405-4168-9940-d9a9e1aa1cce</webElementGuid>
+      <webElementGuid>cb50072b-6a97-484b-8aec-bdc0b1052de7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>7c55ec8a-502f-4b78-94c4-e8e1ba8b8507</webElementGuid>
+      <webElementGuid>4bf7a388-0bcf-4fa5-956e-cbd24f81074c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;search_input&quot;)</value>
-      <webElementGuid>3eb8aa4d-b09b-438a-91f9-0e3c347d7376</webElementGuid>
+      <webElementGuid>87446ced-a7ab-4ac6-be01-d3186fae9224</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='search_input']</value>
-      <webElementGuid>ff76262a-684c-42e8-9616-2d311f2ee8b2</webElementGuid>
+      <webElementGuid>9bdb8f02-ceb0-4dfe-8cff-726526888f76</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,7 +151,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='tygh_main_container']/div/div/div[2]/div/div[2]/div[4]/div/form/input[9]</value>
-      <webElementGuid>ec6acf80-8fbe-4c68-becb-a170b8149470</webElementGuid>
+      <webElementGuid>268a14b1-343a-40a7-bbb2-31133930b77c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -159,7 +159,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input[9]</value>
-      <webElementGuid>bb5839ec-079d-4707-b635-c896f153997e</webElementGuid>
+      <webElementGuid>180dcf78-d77a-4f17-b4de-740014bc7783</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -167,6 +167,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @name = 'hint_q' and @id = 'search_input' and @title = 'Tìm kiếm sản phẩm']</value>
-      <webElementGuid>c9fe13e8-d0eb-4ebc-a9ef-277eca7edd55</webElementGuid>
+      <webElementGuid>ffdb5d08-054c-4801-a866-153f959cb067</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

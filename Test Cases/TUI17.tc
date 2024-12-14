@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;TIẾP TỤC MUA HÀNG&quot;</description>
-   <name>TUI21</name>
+   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;TIẾP TỤC MUA HÀNG&quot;, nút &quot;XÓA GIỎ HÀNG&quot; và nút &quot;TIẾN HÀNH THANH TOÁN&quot;</description>
+   <name>TUI17</name>
    <tag>ui_shopping_cart</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>

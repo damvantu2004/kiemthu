@@ -17,3 +17,15 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl('https://zshop.vn/')
+
+WebUI.click(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/i_'))
+
+WebUI.click(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/a_ng nhp'))
+
+WebUI.takeScreenshotAsCheckpoint('ui_login_popup')
+
+WebUI.closeBrowser()
+

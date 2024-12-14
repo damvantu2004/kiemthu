@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Kiểm tra các danh mục sản phẩm hiển thị đúng trên trang chủ</description>
+   <description>Kiểm tra hiển thị và định dạng kích thước thanh &quot;Tìm kiếm&quot;, Placeholder và biểu tượng kính lúp</description>
    <name>TUI12</name>
-   <tag>ui_p_catalog</tag>
+   <tag>ui_search_bar</tag>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2a74b6ac-7455-4537-bd3e-b678ce67d0c7</testCaseGuid>
+   <testCaseGuid>57842ed0-6b94-4f63-b411-d49f4f9737f0</testCaseGuid>
 </TestCaseEntity>

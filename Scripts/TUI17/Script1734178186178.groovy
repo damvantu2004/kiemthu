@@ -27,7 +27,11 @@ WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) C
 
 WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) Chnh hng  _656c31/a_Xem gi hng'))
 
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tip tc mua hng'))
+
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/span_Xa gi hng'))
+
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tin hnh thanh ton'))
 
 WebUI.closeBrowser()
 

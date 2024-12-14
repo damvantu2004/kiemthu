@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>UI Search Bar Testcases</name>
+   <name>UI Login</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>21a84d40-3b3c-4a49-b1de-a83ca53f635c</testSuiteGuid>
+   <testSuiteGuid>8d6020f7-3815-41b9-b2d9-7e23703c05f6</testSuiteGuid>
    <testCaseLink>
-      <guid>3981d414-b501-46e1-82d2-db0cfe90d6fd</guid>
+      <guid>334365d2-ea11-4d56-88e3-343a1ef77291</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TUI12</testCaseId>
+      <testCaseId>Test Cases/TUI01</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
