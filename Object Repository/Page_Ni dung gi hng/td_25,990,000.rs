@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_25,990,000</name>
+   <tag></tag>
+   <elementGuidId>59cbc8bb-7b62-4b39-9b44-74066a0b64ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#price_subtotal_update_2253224695</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='price_subtotal_update_2253224695']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>5f5da365-063c-491a-8359-a2f46a628e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-cart-content__product-elem ty-cart-content__price cm-reload-2253224695 et-total-price</value>
+      <webElementGuid>437dcd73-a217-4559-8d86-cdbf2fa98152</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>price_subtotal_update_2253224695</value>
+      <webElementGuid>58307e53-57a2-4ece-ad89-5e23ea236d04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+		25,990,000 đ
+			</value>
+      <webElementGuid>c6a66c15-6745-44d1-ba2f-eae338290d1a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;price_subtotal_update_2253224695&quot;)</value>
+      <webElementGuid>c2120381-db24-4a73-a17c-2a3e4e2d71d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='price_subtotal_update_2253224695']</value>
+      <webElementGuid>4e2133e2-8a3b-42d7-b5d6-d0ca6d9c46d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_items']/table/tbody/tr/td[5]</value>
+      <webElementGuid>c9a5d3ba-5028-4640-a98e-3cb42cbf0448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[2]/following::td[2]</value>
+      <webElementGuid>a97c5b4f-ff10-4205-916d-02fd9a2cdb92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã giảm giá'])[1]/preceding::td[1]</value>
+      <webElementGuid>3ec77932-7db4-42de-99e8-604173e6d001</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]</value>
+      <webElementGuid>fb8b9387-8836-4416-a3d4-d8b66c58e043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'price_subtotal_update_2253224695' and (text() = '
+		25,990,000 đ
+			' or . = '
+		25,990,000 đ
+			')]</value>
+      <webElementGuid>99bcd1f1-fb6a-4774-b6d0-45fb0af952c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

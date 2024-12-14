@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_25,990,000_1</name>
+   <tag></tag>
+   <elementGuidId>e78314b9-4853-498b-8b6d-cc25593d8d0b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#price_display_update_2253224695</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='price_display_update_2253224695']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>acef2d83-6e8e-42fa-b253-609e7b169b9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-cart-content__product-elem ty-cart-content__price et-unit-price cm-reload-2253224695</value>
+      <webElementGuid>f9c34410-8fac-48ef-a7e2-2cccb1a423bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>price_display_update_2253224695</value>
+      <webElementGuid>8ff31de5-6cf3-4a96-9331-3cbb692a30ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	25,990,000 đ
+</value>
+      <webElementGuid>9961f0bf-cbea-4341-97c9-b888eebf10f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;price_display_update_2253224695&quot;)</value>
+      <webElementGuid>7009ca33-bcbf-41d7-9c07-b1b207c34857</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//td[@id='price_display_update_2253224695']</value>
+      <webElementGuid>7d7f8d14-48d4-416d-92ed-cc1fccbbcfd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_items']/table/tbody/tr/td[3]</value>
+      <webElementGuid>7a66ae5d-8e43-4953-a76a-4eafbfddc57e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[3]/preceding::td[2]</value>
+      <webElementGuid>181b660b-2f7e-4660-a8de-c4c98483bba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>b79ce708-6275-4b71-a748-ad150535f9e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[@id = 'price_display_update_2253224695' and (text() = '
+	25,990,000 đ
+' or . = '
+	25,990,000 đ
+')]</value>
+      <webElementGuid>1c992f76-9468-4d93-b796-b4bb39c9b5ed</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

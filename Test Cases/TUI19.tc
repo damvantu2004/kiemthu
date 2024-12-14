@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước sản phẩm trong Giỏ hàng</description>
+   <name>TUI19</name>
+   <tag>ui_shopping_cart</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c8997164-d049-4f99-887f-0820f17a82c3</testCaseGuid>
+</TestCaseEntity>

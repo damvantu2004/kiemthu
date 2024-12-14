@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tng chi ph</name>
+   <tag></tag>
+   <elementGuidId>fd08bea2-0b1f-46c2-95d0-b7ce2efd2e4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ty-cart-statistic__total-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout_totals']/ul[2]/li/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8c95ae3d-b394-4d11-84a9-46b4632613cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-cart-statistic__total-title</value>
+      <webElementGuid>dc5c0a7b-8d1f-4f4e-b4d5-a4772f8ada0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tổng chi phí</value>
+      <webElementGuid>aef5fcec-db29-4f52-b047-109f7b6bd67e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout_totals&quot;)/ul[@class=&quot;ty-cart-statistic__total-list&quot;]/li[@class=&quot;ty-cart-statistic__item ty-cart-statistic__total&quot;]/span[@class=&quot;ty-cart-statistic__total-title&quot;]</value>
+      <webElementGuid>9284d612-368f-4abb-9bd4-129b4b1b238c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout_totals']/ul[2]/li/span</value>
+      <webElementGuid>7eb2fc3f-792f-46dd-8dcd-0d73c4bff851</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tổng'])[1]/following::span[3]</value>
+      <webElementGuid>028f2340-2545-4329-a75c-60a96ad651ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[4]/preceding::span[2]</value>
+      <webElementGuid>1eb9c6d9-bf30-45ba-89b4-f8b0f9bf0075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[2]/preceding::span[4]</value>
+      <webElementGuid>b80c71c4-168f-4f9d-9ef7-1f8e9a5e1dca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tổng chi phí']/parent::*</value>
+      <webElementGuid>45e29c31-985e-4a9a-8403-2eb3e422773b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ul[2]/li/span</value>
+      <webElementGuid>84e16fb4-8dbc-4933-84e6-7bc90434c97b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tổng chi phí' or . = 'Tổng chi phí')]</value>
+      <webElementGuid>c50d8b1f-a17b-4c1f-befe-bb4577f08e3c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
