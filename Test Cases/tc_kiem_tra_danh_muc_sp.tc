@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_kiem_tra_danh_muc_sp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aca4e1ca-eba8-4df5-b7de-453388aa240e</testCaseGuid>
+</TestCaseEntity>

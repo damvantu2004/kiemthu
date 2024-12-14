@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_Them_xoa_sp_giohang</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b24cf10d-e557-4b81-90b6-147b1eda28a6</testCaseGuid>
+</TestCaseEntity>

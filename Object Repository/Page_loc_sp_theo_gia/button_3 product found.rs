@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_3 product found</name>
+   <tag></tag>
+   <elementGuidId>eb663167-91c2-4e34-9720-fb3de45c6f13</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cm-scroll.ty-tooltip--link.ty-tooltip--filter.tooltip.arrow-right.center.undefined</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>6291ff09-13ba-4559-b21f-289d0d15e0b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a613cce7-58ad-4335-a9ee-facb00e983cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ca-scroll</name>
+      <type>Main</type>
+      <value>.ty-mainbox-title</value>
+      <webElementGuid>e0854191-40f0-406a-9baa-beb90485b325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cm-scroll ty-tooltip--link ty-tooltip--filter tooltip arrow-right center undefined</value>
+      <webElementGuid>f6d44027-7dc6-4a55-9ded-3ff7f6b7435c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>3 product found</value>
+      <webElementGuid>bb310f62-32e2-40d8-abe3-ac29b3c0b6fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;cookies filereader draganddrop no-touchevents mouseevents&quot;]/body[@class=&quot;screen--lg&quot;]/button[@class=&quot;cm-scroll ty-tooltip--link ty-tooltip--filter tooltip arrow-right center undefined&quot;]</value>
+      <webElementGuid>ec72b704-c5a3-471f-9df2-68a842b0f91a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>87a475c2-9c10-4c52-9387-41fa4f777391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chỉ đường'])[1]/following::button[1]</value>
+      <webElementGuid>f9278cf7-4386-472d-b1be-4590450ff0a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chat Facebook'])[1]/following::button[1]</value>
+      <webElementGuid>701f92c7-a4a7-493d-8058-56497203787e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='3 product found']/parent::*</value>
+      <webElementGuid>cfebcace-e0da-407d-bbe6-9b5bbd004519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//body/button</value>
+      <webElementGuid>7fb988fc-78f5-490a-bfdd-f8ea70b4bbd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '3 product found' or . = '3 product found')]</value>
+      <webElementGuid>0fe2c789-fb4e-4e6e-8ff4-bfa628f59bb2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

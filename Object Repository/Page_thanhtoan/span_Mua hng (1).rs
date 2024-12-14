@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mua hng (1)</name>
+   <tag></tag>
+   <elementGuidId>86ce2ff2-4a8c-41d4-a928-7628cf2455e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#button_cart_65354 > span > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='button_cart_65354']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de4c3d49-ba07-4e9d-9a34-ce2b72da1f56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mua hàng</value>
+      <webElementGuid>2eacf46f-7e06-45ef-a1a5-83274b6fa3ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;button_cart_65354&quot;)/span[1]/span[1]</value>
+      <webElementGuid>6f77fdbe-20e9-4b11-84e2-eaa1fe36b8a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='button_cart_65354']/span/span</value>
+      <webElementGuid>0fca023a-4767-43e0-ba50-59d0f899973f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::span[2]</value>
+      <webElementGuid>57c76a73-ce7b-4f8d-974b-fa1ce34594d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua nhanh'])[1]/preceding::span[1]</value>
+      <webElementGuid>852fd64b-39e3-4701-8af7-8d7e1b64702f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay - trả sau'])[1]/preceding::span[2]</value>
+      <webElementGuid>3d5afe98-c3ca-4d30-8630-7b937b48f46c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mua hàng']/parent::*</value>
+      <webElementGuid>ed3530ac-9fa3-4e91-b98a-438a51db9f16</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/button/span/span</value>
+      <webElementGuid>b0f680c7-3c21-4f39-8d8d-bbf01fa8fd32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mua hàng' or . = 'Mua hàng')]</value>
+      <webElementGuid>d1015742-1040-4694-8bf5-beb00a8b324e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
