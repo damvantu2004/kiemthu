@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_</name>
+   <tag></tag>
+   <elementGuidId>9505d3a1-f93a-4a11-b978-77d7088af143</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div/div/div[2]/div/div[2]/div[4]/div/form/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.material-icons.md-24.md-dark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>17821c40-1895-4393-becb-c88a1d30bf37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons md-24 md-dark</value>
+      <webElementGuid>dec951ea-08b4-4bd0-8829-b18506f0da9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value></value>
+      <webElementGuid>af5dc583-eb0e-40e3-83a5-068a1cc3c443</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-top-panel clearfix&quot;]/div[@class=&quot;container-fluid  top-grid&quot;]/div[@class=&quot;container-fluid-row ypi-logo&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span10 ypi-cart-user-wrap ypi-fix-height-header&quot;]/div[@class=&quot;ypi-search ty-float-right&quot;]/div[@class=&quot;ty-search-block&quot;]/form[@class=&quot;cm-processed-form&quot;]/button[@class=&quot;ty-search-magnifier&quot;]/i[@class=&quot;material-icons md-24 md-dark&quot;]</value>
+      <webElementGuid>807b1903-5103-4b2a-9fd6-2f1e7df39aab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div/div/div[2]/div/div[2]/div[4]/div/form/button/i</value>
+      <webElementGuid>7e920083-6965-46b2-92d9-5e838082bb82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhớ mật khẩu'])[1]/following::i[1]</value>
+      <webElementGuid>309ae820-ad97-46a3-87e3-a611c070b9ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::i[1]</value>
+      <webElementGuid>d1c84bbe-5161-432e-b2d7-5b2b19d20181</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::i[1]</value>
+      <webElementGuid>29dce65f-cf74-4ea9-91e2-37993d3b14d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::i[2]</value>
+      <webElementGuid>125a8a45-4937-4ca6-8e97-b68135df71c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>49e80c56-ec2b-446f-8bca-6378f20bae8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>4a228fa5-a6fa-4a26-a907-ee4d2a3a2195</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = '' or . = '')]</value>
+      <webElementGuid>80874d4c-9038-4c40-a7f4-a64a3dd0ab44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
