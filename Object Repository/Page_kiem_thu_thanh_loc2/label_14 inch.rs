@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_14 inch</name>
+   <tag></tag>
+   <elementGuidId>f22203b0-29d7-4cfe-b112-20bb73b726bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ranges_254_471']/li[3]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>4e1cca38-80f1-430e-9858-3985ab9960e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>elm_checkbox_254_471_14785</value>
+      <webElementGuid>c5ff4ecd-fa67-4801-842d-16cc6b230ac5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>14 inch</value>
+      <webElementGuid>fe42bb4b-6a49-46d3-9d7f-76f8071f107a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ranges_254_471&quot;)/li[@class=&quot;cm-product-filters-checkbox-container ty-product-filters__group&quot;]/label[1]</value>
+      <webElementGuid>af9835bf-4bca-4511-b5ab-d1a42a024d10</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ranges_254_471']/li[3]/label</value>
+      <webElementGuid>f883124d-00b7-49e5-abcb-0e4df84a7be1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kích cỡ màn hình'])[1]/following::label[3]</value>
+      <webElementGuid>3a6c45b9-88cf-4eb1-a25b-6cf3d20723fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Model'])[1]/preceding::label[1]</value>
+      <webElementGuid>8b75a9d4-983b-45ab-b064-f64a0ff6c966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lenovo ThinkPad P'])[1]/preceding::label[1]</value>
+      <webElementGuid>8f09ecd2-5198-4cfa-91e4-9ef5a5d4d0dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li/ul/li[3]/label</value>
+      <webElementGuid>ec0bfedf-2c15-47ba-bbea-796930470dc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = '14 inch' or . = '14 inch')]</value>
+      <webElementGuid>f6e8257a-9503-4b68-b292-fff49469a526</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

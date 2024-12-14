@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Khuyn Mi</name>
+   <tag></tag>
+   <elementGuidId>f8d8ac89-ca2c-496e-96a0-f0b3e573ad8e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[2]/div/div/div/div/div/div/div/ul/li[2]/a[2]/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>c532b1b6-8c3c-4c47-a573-44eb06904ef3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Khuyến Mãi</value>
+      <webElementGuid>d6d55859-ce70-4832-95c4-0a695dd9ea95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-header clearfix&quot;]/div[@class=&quot;container-fluid  header-grid&quot;]/div[@class=&quot;container-fluid-row container-fluid-row-full-width top-menu-grid&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16&quot;]/div[@class=&quot;top-menu&quot;]/div[@class=&quot;abt_up-menu extended&quot;]/div[@class=&quot;ty-menu__wrapper&quot;]/ul[@class=&quot;ty-menu__items cm-responsive-menu abt_inited&quot;]/li[@class=&quot;ty-menu__item cm-menu-item-responsive&quot;]/a[@class=&quot;ty-menu__item-link a-first-lvl&quot;]/span[@class=&quot;item-with-icon&quot;]/bdi[1]</value>
+      <webElementGuid>bcf35e27-2e7a-47c4-b8f1-0374cf2cf337</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[2]/div/div/div/div/div/div/div/ul/li[2]/a[2]/span/bdi</value>
+      <webElementGuid>25ac888b-3c35-40be-af45-37ea8fdce152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::bdi[1]</value>
+      <webElementGuid>b12617fc-3ed0-42f0-92ca-afebf68d6561</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::bdi[1]</value>
+      <webElementGuid>dfa31964-348f-4b8b-ab1b-96ea9131c71a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Khuyến mãi Máy ảnh'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>9c692b0c-a74e-4e6e-b031-c1865a5faaab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Khuyến Mãi']/parent::*</value>
+      <webElementGuid>e593b43d-005d-4fb4-93aa-b86518b1275a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bdi</value>
+      <webElementGuid>fcbcbe1f-54d9-43b1-8956-b46c5a778bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Khuyến Mãi' or . = 'Khuyến Mãi')]</value>
+      <webElementGuid>0fa260d8-f7f4-4aec-aac6-85daf74b97bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

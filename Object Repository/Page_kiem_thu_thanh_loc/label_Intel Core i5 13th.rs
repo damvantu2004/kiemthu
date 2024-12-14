@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Intel Core i5 13th</name>
+   <tag></tag>
+   <elementGuidId>f4c56c7d-e0eb-4deb-93ef-a1980b7cd711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='ranges_254_474']/li[7]/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a8e5bfa2-ec35-473c-9f8f-30ae1d60a90b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>elm_checkbox_254_474_19855</value>
+      <webElementGuid>98cb82c0-4709-4aec-805b-2bb4325d90bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Intel Core i5 13th</value>
+      <webElementGuid>27395d14-2658-4eca-9ca7-a9994d62dd56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ranges_254_474&quot;)/li[@class=&quot;cm-product-filters-checkbox-container ty-product-filters__group&quot;]/label[1]</value>
+      <webElementGuid>0e5b90ef-cb11-487b-86ea-693760ee2740</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='ranges_254_474']/li[7]/label</value>
+      <webElementGuid>50b03c41-445d-472a-95f4-198c5236ab0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intel Core i5 12th'])[1]/following::label[1]</value>
+      <webElementGuid>f7596681-c6e3-4e16-b0f1-9d88fca5e3cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intel Core i5 11th'])[1]/following::label[2]</value>
+      <webElementGuid>141b844f-70f5-451d-8825-e599e5fd80c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Intel Core i7 10th'])[1]/preceding::label[1]</value>
+      <webElementGuid>ad490b63-d7c1-458e-ae35-5087d0af5c42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/ul/li[2]/ul/li[7]/label</value>
+      <webElementGuid>435b841d-0fa6-4fa6-bcd0-f75250f79405</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Intel Core i5 13th' or . = 'Intel Core i5 13th')]</value>
+      <webElementGuid>50933f5e-f97b-4081-a371-65a044cc756e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

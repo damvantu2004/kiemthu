@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tip theo</name>
+   <tag></tag>
+   <elementGuidId>9409de5b-c6d2-4f13-8f5d-dfa80192ee7c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ty-pagination__item.ty-pagination__btn.ty-pagination__next.cm-history.cm-ajax.ty-pagination__right-arrow > span.ty-pagination__text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='pagination_blockY']/a[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a22af6d5-66b4-49d8-95da-04e5c8f753c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-pagination__text</value>
+      <webElementGuid>914986c6-9a9e-4c03-8093-b66a22bd6935</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tiếp theo</value>
+      <webElementGuid>ca7881d1-e3dc-4d03-b422-5478035356c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;pagination_blockY&quot;)/a[@class=&quot;ty-pagination__item ty-pagination__btn ty-pagination__next cm-history cm-ajax ty-pagination__right-arrow&quot;]/span[@class=&quot;ty-pagination__text&quot;]</value>
+      <webElementGuid>c501677f-4477-4679-abad-0d0f41eb3700</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='pagination_blockY']/a[2]/span</value>
+      <webElementGuid>7f71be10-418f-4ea1-b28e-a613957df9f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trước'])[1]/following::span[2]</value>
+      <webElementGuid>ccf5d3d7-fd35-4f16-8b8a-880d290e5f1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhận bản tin của zShop'])[1]/preceding::span[1]</value>
+      <webElementGuid>b72cdaa7-3807-44cc-b88b-5f1bd8b86102</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tiếp theo']/parent::*</value>
+      <webElementGuid>6b7c7527-912d-487f-b679-fba606b0ea2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a[2]/span</value>
+      <webElementGuid>56584073-8418-4800-8a02-9e4bcd4a5f38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tiếp theo' or . = 'Tiếp theo')]</value>
+      <webElementGuid>12890fa0-51c6-4ae5-bddd-0ddf07cb16b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

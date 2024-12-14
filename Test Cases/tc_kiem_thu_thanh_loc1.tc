@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_kiem_thu_thanh_loc1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e10de79d-c7c5-4789-b51e-e67ea2663111</testCaseGuid>
+</TestCaseEntity>

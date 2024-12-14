@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Kt qu tm kim</name>
+   <tag></tag>
+   <elementGuidId>9f8a2ee3-928d-4a70-837d-c256be596f7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ty-mainbox-title__left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div/div/h1/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e2bdbd23-a480-467c-9716-d4d334df7c32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-mainbox-title__left</value>
+      <webElementGuid>b3842816-70a9-4a87-a96f-46ea3535cb23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kết quả tìm kiếm</value>
+      <webElementGuid>670da1b8-8bd1-4d20-83c7-5e8d1c409de5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-content clearfix&quot;]/div[@class=&quot;container-fluid  h-filters&quot;]/div[@class=&quot;container-fluid-row main-content-grid ypi-fix-category&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16 main-content-grid ypi-fix-category&quot;]/div[@class=&quot;ty-mainbox-container clearfix&quot;]/h1[@class=&quot;ty-mainbox-title&quot;]/span[@class=&quot;ty-mainbox-title__left&quot;]</value>
+      <webElementGuid>0a6d8d16-1aea-48d2-bf7d-fbc78684b7d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div/div/h1/span</value>
+      <webElementGuid>527b8488-2f6b-4d57-bbc7-cb855dd74b4f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPad Pro | Pro 9.7 cũ'])[1]/following::span[1]</value>
+      <webElementGuid>b2d940e7-4019-4153-984a-fbc6ebc9ea84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPad Air | Air 2 Cũ'])[1]/following::span[1]</value>
+      <webElementGuid>98fa4430-365a-4b77-b0d2-574a057cf535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhận bản tin của zShop'])[1]/preceding::span[2]</value>
+      <webElementGuid>0d2b217d-7f7f-4b6e-9a02-8dd36a05560a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/span</value>
+      <webElementGuid>5a543f9e-c6b2-4174-b8e3-74917dc2fa49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Kết quả tìm kiếm' or . = 'Kết quả tìm kiếm')]</value>
+      <webElementGuid>aaa8031a-4708-4943-9259-2b9835d4620f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
