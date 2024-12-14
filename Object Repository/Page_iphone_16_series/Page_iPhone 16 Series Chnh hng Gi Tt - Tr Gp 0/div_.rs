@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>9b02953c-afd2-4290-8601-35492ad2e587</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ypi-filters-container.ypi-nofilters</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div[2]/div[6]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cc43fbe0-0675-436c-a188-60b00d86fa47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ypi-filters-container ypi-nofilters</value>
+      <webElementGuid>6be2fa9f-64ed-4d1c-aed2-8b8c97cec7f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+            </value>
+      <webElementGuid>28953bcf-817e-4e66-9838-a4f96635f769</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-content clearfix&quot;]/div[@class=&quot;container-fluid content-grid ypi-categories_grid enable-v-filters mobile-view&quot;]/div[@class=&quot;container-fluid-row&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span13 main-content-grid ypi-fix-category&quot;]/div[@class=&quot;ypi-filters-container ypi-nofilters&quot;]</value>
+      <webElementGuid>effa86e1-0e32-4cc8-9ff1-0eb214ee8b26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[3]/div/div/div/div[2]/div[6]</value>
+      <webElementGuid>457795bf-0f5e-4996-bfd2-32d09c1e98ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='iPhone 16 Series'])[3]/following::div[7]</value>
+      <webElementGuid>ab2b5374-6411-4171-92ce-5db9a99ff850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::div[7]</value>
+      <webElementGuid>abb47d0e-91ac-4a51-987b-382fea1be285</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::div[1]</value>
+      <webElementGuid>c6c9596f-7597-472b-ab44-c1e7c40c43ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[6]</value>
+      <webElementGuid>c3c1e92f-42f1-44b4-ad81-f529f94d21b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+        
+            ' or . = '
+        
+            ')]</value>
+      <webElementGuid>9740f016-6980-44a0-a1e7-e9413444dd22</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

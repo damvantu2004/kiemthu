@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_Apple</name>
+   <tag></tag>
+   <elementGuidId>56d0882d-4546-427a-9251-1fe0c7e2fb57</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ty-menu__item.cm-menu-item-responsive.ty-menu__item-active > a.ty-menu__item-link.a-first-lvl > span.item-with-icon > bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[2]/div/div/div/div/div/div/div/ul/li[5]/a[2]/span/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>60570763-bb30-42b2-a44b-c6de51de03c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apple</value>
+      <webElementGuid>1801f5dd-ac5d-46ae-a222-c6ff3891300e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-header clearfix&quot;]/div[@class=&quot;container-fluid  header-grid&quot;]/div[@class=&quot;container-fluid-row container-fluid-row-full-width top-menu-grid&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16&quot;]/div[@class=&quot;top-menu&quot;]/div[@class=&quot;abt_up-menu extended&quot;]/div[@class=&quot;ty-menu__wrapper&quot;]/ul[@class=&quot;ty-menu__items cm-responsive-menu abt_inited&quot;]/li[@class=&quot;ty-menu__item cm-menu-item-responsive ty-menu__item-active&quot;]/a[@class=&quot;ty-menu__item-link a-first-lvl&quot;]/span[@class=&quot;item-with-icon&quot;]/bdi[1]</value>
+      <webElementGuid>c3b17863-8795-4802-8411-e15cf38109af</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[2]/div/div/div/div/div/div/div/ul/li[5]/a[2]/span/bdi</value>
+      <webElementGuid>db06830c-171f-42df-8759-e5589fcd76f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[25]/following::bdi[1]</value>
+      <webElementGuid>10ccad8c-6462-4bc3-b2b7-f2985cb094be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[25]/following::bdi[1]</value>
+      <webElementGuid>071271be-cc78-4e0d-8697-ee3fc8339423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MacBook Pro'])[1]/preceding::bdi[1]</value>
+      <webElementGuid>1272904a-8d55-419e-8e0d-cf6251ffa08b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Apple']/parent::*</value>
+      <webElementGuid>4c4e0f0c-3877-4db5-900b-e8369088d4d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a[2]/span/bdi</value>
+      <webElementGuid>3cb5a1f5-ddc4-4a5f-a320-1ee4c490ca5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = 'Apple' or . = 'Apple')]</value>
+      <webElementGuid>ebd50b83-cfb8-454e-9b90-26cca73df8ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
