@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước các trường &quot;E-mail&quot;, &quot;Mật khẩu&quot;</description>
+   <name>TUI02</name>
+   <tag>ui_login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>48614ff4-8d1b-4505-9584-c17599db18d7</testCaseGuid>
+</TestCaseEntity>

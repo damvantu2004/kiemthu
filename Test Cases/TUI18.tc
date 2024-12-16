@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;TIẾN HÀNH THANH TOÁN&quot;</description>
-   <name>TUI18</name>
-   <tag>ui_shopping_cart</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>d2c112aa-28a8-42d1-a4db-83033c613480</testCaseGuid>
-</TestCaseEntity>

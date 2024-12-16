@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Label &quot;Quên mật khẩu&quot; và Label &quot;Đăng ký tài khoản mới&quot;</description>
+   <name>TUI03</name>
+   <tag>ui_login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e22e7da-1fdf-4dd8-b150-8de1a371c98c</testCaseGuid>
+</TestCaseEntity>

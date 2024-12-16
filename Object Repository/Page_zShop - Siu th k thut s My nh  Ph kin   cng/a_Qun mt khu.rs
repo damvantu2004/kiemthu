@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_ng nhp</name>
+   <name>a_Qun mt khu</name>
    <tag></tag>
-   <elementGuidId>b1775c33-64bc-47cf-b208-11a70458cd9b</elementGuidId>
+   <elementGuidId>c13c90b3-446a-4eec-bb9b-5ec1bf19aa6b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>a.cm-dialog-opener.cm-dialog-auto-size.ty-btn.ty-btn__secondary</value>
+         <value>a.ty-password-forgot__a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='account_info_641']/div[2]/a</value>
+         <value>//div[@id='popup641_login_popup_form_container']/form/div[2]/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,134 +23,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fdb07b4e-43a4-4089-96fe-c8fb60a83090</webElementGuid>
+      <webElementGuid>d6896a1f-bf93-498a-ad73-83cc5b605e7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://zshop.vn/auth-loginform.html?return_url=index.php</value>
-      <webElementGuid>39a34fb4-6145-4a85-8cf0-0378b38c026b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>data-ca-target-id</name>
-      <type>Main</type>
-      <value>login_block641</value>
-      <webElementGuid>4d85830a-b7b3-45cf-bc6f-9aa2281697f1</webElementGuid>
+      <value>https://zshop.vn/index.php?dispatch=auth.recover_password</value>
+      <webElementGuid>d8004acb-7818-4ba8-92ed-da2a5262e333</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__secondary</value>
-      <webElementGuid>52f66c78-1031-419a-aadb-48c59d3aeaad</webElementGuid>
+      <value>ty-password-forgot__a</value>
+      <webElementGuid>ea404906-e648-4a99-ad94-22055afdcf01</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>rel</name>
+      <name>tabindex</name>
       <type>Main</type>
-      <value>nofollow</value>
-      <webElementGuid>358bc818-ac1e-48c9-93b1-d7259fab3307</webElementGuid>
+      <value>5</value>
+      <webElementGuid>1ef14fc5-fd60-45b0-8742-815dfc1914be</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Đăng nhập</value>
-      <webElementGuid>d098d1da-baee-4903-af78-ba430d3762a1</webElementGuid>
+      <value>Quên mật khẩu?</value>
+      <webElementGuid>ced77b32-1592-46bb-8b75-56b60746c789</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;account_info_641&quot;)/div[@class=&quot;ty-account-info__buttons buttons-container&quot;]/a[@class=&quot;cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__secondary&quot;]</value>
-      <webElementGuid>10b8428f-0345-47e9-9641-470c6a5189d0</webElementGuid>
+      <value>id(&quot;popup641_login_popup_form_container&quot;)/form[@class=&quot;cm-ajax cm-ajax-full-render cm-processed-form&quot;]/div[@class=&quot;ty-control-group ty-password-forgot&quot;]/a[@class=&quot;ty-password-forgot__a&quot;]</value>
+      <webElementGuid>843f48da-2aa5-4eea-89a2-4fc7990fd273</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='account_info_641']/div[2]/a</value>
-      <webElementGuid>fe198ba1-9839-4b6f-920c-a12672ddfcf9</webElementGuid>
+      <value>//div[@id='popup641_login_popup_form_container']/form/div[2]/a</value>
+      <webElementGuid>6c06c7be-9389-4b18-8b65-0a5767e43dbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>b1e656a4-5285-4db5-861f-8bc0628d6127</webElementGuid>
+      <value>//a[contains(text(),'Quên mật khẩu?')]</value>
+      <webElementGuid>ea364d2d-5898-4f73-baf2-3852e5a69521</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[1]/following::a[1]</value>
-      <webElementGuid>2311fc89-fe25-4153-be43-baf7b0f34863</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu'])[1]/following::a[1]</value>
+      <webElementGuid>824d7d93-45ee-4f98-a9e1-057b8534c99f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi đơn hàng của tôi'])[2]/following::a[1]</value>
-      <webElementGuid>713ca8e1-e685-4e25-b943-e839a4b19ddd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[2]/following::a[1]</value>
+      <webElementGuid>b7488322-68f7-4942-a6d3-387fbc593a71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>1724beb9-0b03-4ec2-bb94-16abd5a5bad0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký tài khoản mới'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba99f7d5-e7e6-49f2-bd38-66469f48df7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/preceding::a[2]</value>
-      <webElementGuid>f2708f69-64de-42bf-9d63-a240a52179f3</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[2]/preceding::a[2]</value>
+      <webElementGuid>f8d18d60-2b7a-477e-bf45-c8e848c9ec95</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>0f142ad6-ce58-417e-9358-0f5544b28e4d</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Quên mật khẩu?']/parent::*</value>
+      <webElementGuid>8790c741-2ccd-4a8a-ae67-15add07d1a9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>//a[contains(@href, 'https://zshop.vn/auth-loginform.html?return_url=index.php')]</value>
-      <webElementGuid>fa21e799-6686-4972-901b-6bf338903dcd</webElementGuid>
+      <value>//a[contains(@href, 'https://zshop.vn/index.php?dispatch=auth.recover_password')]</value>
+      <webElementGuid>e0cfa5c3-542d-47dd-8291-b47adebc7e4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/a</value>
-      <webElementGuid>a2b28c87-e073-4a64-843e-33b01c10b7be</webElementGuid>
+      <value>//form/div[2]/a</value>
+      <webElementGuid>fb6f421e-3c1d-4289-b35f-80dd434329ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = 'https://zshop.vn/auth-loginform.html?return_url=index.php' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>54aad2b4-2848-4d8a-9b69-1e27f5b599fb</webElementGuid>
+      <value>//a[@href = 'https://zshop.vn/index.php?dispatch=auth.recover_password' and (text() = 'Quên mật khẩu?' or . = 'Quên mật khẩu?')]</value>
+      <webElementGuid>88653a51-eb8c-4e12-b426-f03979cbf536</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
