@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>fdb07b4e-43a4-4089-96fe-c8fb60a83090</webElementGuid>
+      <webElementGuid>c15c6c26-e7ef-41d2-b139-5d00834adfda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://zshop.vn/auth-loginform.html?return_url=index.php</value>
-      <webElementGuid>39a34fb4-6145-4a85-8cf0-0378b38c026b</webElementGuid>
+      <webElementGuid>2d0898e9-d8bd-44d8-a4c5-7654c9042616</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>data-ca-target-id</name>
       <type>Main</type>
       <value>login_block641</value>
-      <webElementGuid>4d85830a-b7b3-45cf-bc6f-9aa2281697f1</webElementGuid>
+      <webElementGuid>bd7159d3-b472-4b26-b3d3-6c82b160004e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>class</name>
       <type>Main</type>
       <value>cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__secondary</value>
-      <webElementGuid>52f66c78-1031-419a-aadb-48c59d3aeaad</webElementGuid>
+      <webElementGuid>ff3d68fb-ad6f-4761-b156-3635072a4b3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>rel</name>
       <type>Main</type>
       <value>nofollow</value>
-      <webElementGuid>358bc818-ac1e-48c9-93b1-d7259fab3307</webElementGuid>
+      <webElementGuid>d548310d-7d63-484a-b92d-890a7518c377</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Đăng nhập</value>
-      <webElementGuid>d098d1da-baee-4903-af78-ba430d3762a1</webElementGuid>
+      <webElementGuid>02d28f6a-bd90-40c3-ac0b-19f58b01853a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;account_info_641&quot;)/div[@class=&quot;ty-account-info__buttons buttons-container&quot;]/a[@class=&quot;cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__secondary&quot;]</value>
-      <webElementGuid>10b8428f-0345-47e9-9641-470c6a5189d0</webElementGuid>
+      <webElementGuid>7478b9b0-e685-4b3b-92d8-0afb8684890d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='account_info_641']/div[2]/a</value>
-      <webElementGuid>fe198ba1-9839-4b6f-920c-a12672ddfcf9</webElementGuid>
+      <webElementGuid>15d0390a-0799-42d6-b34d-a3e584f0baec</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>//a[contains(text(),'Đăng nhập')]</value>
-      <webElementGuid>b1e656a4-5285-4db5-861f-8bc0628d6127</webElementGuid>
+      <webElementGuid>c4b1d4ff-8b0a-4501-9fc5-56da2ea9fd00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[1]/following::a[1]</value>
-      <webElementGuid>2311fc89-fe25-4153-be43-baf7b0f34863</webElementGuid>
+      <webElementGuid>b1ea8620-14a8-429e-b52b-c4e426bd520d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi đơn hàng của tôi'])[2]/following::a[1]</value>
-      <webElementGuid>713ca8e1-e685-4e25-b943-e839a4b19ddd</webElementGuid>
+      <webElementGuid>13eaafcb-d4f2-4b63-b6a1-cf9d6e55b3c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký'])[1]/preceding::a[1]</value>
-      <webElementGuid>1724beb9-0b03-4ec2-bb94-16abd5a5bad0</webElementGuid>
+      <webElementGuid>2c4eb126-e7a9-4091-9429-c527c6ba5adf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[1]/preceding::a[2]</value>
-      <webElementGuid>f2708f69-64de-42bf-9d63-a240a52179f3</webElementGuid>
+      <webElementGuid>ac58ca95-2e65-4415-a3da-e4abbdd4b3f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Đăng nhập']/parent::*</value>
-      <webElementGuid>0f142ad6-ce58-417e-9358-0f5544b28e4d</webElementGuid>
+      <webElementGuid>07e82075-5d6f-497f-a590-7a5143f250fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,7 +135,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://zshop.vn/auth-loginform.html?return_url=index.php')]</value>
-      <webElementGuid>fa21e799-6686-4972-901b-6bf338903dcd</webElementGuid>
+      <webElementGuid>71228476-0c1e-4c2e-80f1-59cbeb2d4382</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -143,7 +143,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/a</value>
-      <webElementGuid>a2b28c87-e073-4a64-843e-33b01c10b7be</webElementGuid>
+      <webElementGuid>40ec59d0-bfd4-48d5-89b8-afeae5dac7a5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,6 +151,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://zshop.vn/auth-loginform.html?return_url=index.php' and (text() = 'Đăng nhập' or . = 'Đăng nhập')]</value>
-      <webElementGuid>54aad2b4-2848-4d8a-9b69-1e27f5b599fb</webElementGuid>
+      <webElementGuid>cca827b7-fbb4-40f6-8a89-71c8123c3efa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

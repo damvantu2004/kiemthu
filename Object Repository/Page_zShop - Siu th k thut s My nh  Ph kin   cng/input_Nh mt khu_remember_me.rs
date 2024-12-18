@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Qun mt khu_password</name>
+   <name>input_Nh mt khu_remember_me</name>
    <tag></tag>
-   <elementGuidId>2aafdcb4-d8fa-4df5-99c6-9c8af612b888</elementGuidId>
+   <elementGuidId>8b5c9290-a215-4a9f-8749-83bcc2a0c385</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#psw_popup641</value>
+         <key>XPATH</key>
+         <value>//input[@id='remember_me_popup641']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='psw_popup641']</value>
+         <key>CSS</key>
+         <value>#remember_me_popup641</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,94 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5d9333f8-8b08-41ec-85aa-e7aa191c2e9b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>cd0830d5-4c0e-4d69-b612-2472ecd74018</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>psw_popup641</value>
-      <webElementGuid>392da87b-a739-42e5-b651-a9307f162926</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>af72e48f-b079-4c1f-8ba4-61e12ca90dd9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>size</name>
-      <type>Main</type>
-      <value>30</value>
-      <webElementGuid>c071d24a-298a-4e68-a4c2-ec3cfe5488fd</webElementGuid>
+      <webElementGuid>2b0a858a-ffd8-45a6-9be6-8e048bb0a0b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>ty-login__input</value>
-      <webElementGuid>0632edd7-94b9-4e75-b2c6-f2f32823e56d</webElementGuid>
+      <value>checkbox</value>
+      <webElementGuid>e34c04d8-ccdb-49c1-854b-ea0e49429a90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>e9be860f-3629-4fad-87a6-c6f810e1cca3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>remember_me</value>
+      <webElementGuid>3349dcd4-73ae-4b87-8369-ecf0adb6ec24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>remember_me_popup641</value>
+      <webElementGuid>a6068072-e52d-495e-9fc7-5630a81a9a41</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>maxlength</name>
+      <name>value</name>
       <type>Main</type>
-      <value>32</value>
-      <webElementGuid>802ab6c2-bc61-4a8f-a808-f48a30def0cf</webElementGuid>
+      <value>Y</value>
+      <webElementGuid>8455c22a-b51f-4156-b068-b5ab5b109a34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;psw_popup641&quot;)</value>
-      <webElementGuid>793698b2-021b-4ee4-80d7-8c4ca2630256</webElementGuid>
+      <value>id(&quot;remember_me_popup641&quot;)</value>
+      <webElementGuid>50d7d43c-8635-40e1-aec6-2b101a690809</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='psw_popup641']</value>
-      <webElementGuid>c8e080f1-1fe2-4bdd-97eb-92585bafc01d</webElementGuid>
+      <value>//input[@id='remember_me_popup641']</value>
+      <webElementGuid>e0299865-d0a1-455c-8808-f123b62de02a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='popup641_login_popup_form_container']/form/div[2]/input</value>
-      <webElementGuid>e6e5b771-d3ee-4042-864b-676c010014a1</webElementGuid>
+      <value>//div[@id='popup641_login_popup_form_container']/form/div[5]/div[2]/label/input</value>
+      <webElementGuid>f58941e4-bbf9-45d5-9675-3a1871f6ac66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/form/div[2]/input</value>
-      <webElementGuid>368158da-0882-4e06-8c92-d59a7650180f</webElementGuid>
+      <value>//label/input</value>
+      <webElementGuid>4de4de58-e4ae-403a-a5d4-874ef85d5917</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @id = 'psw_popup641' and @name = 'password']</value>
-      <webElementGuid>c594e3b2-0f46-4bf1-b843-631894d72e43</webElementGuid>
+      <value>//input[@type = 'checkbox' and @name = 'remember_me' and @id = 'remember_me_popup641']</value>
+      <webElementGuid>0042201f-5c98-49b1-83b2-46d958eb027c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

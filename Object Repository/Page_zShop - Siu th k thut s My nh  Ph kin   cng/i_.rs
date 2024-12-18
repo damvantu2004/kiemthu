@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>4ebc5629-e831-482b-8c65-3f2f3c0d9c53</webElementGuid>
+      <webElementGuid>0368d223-1ef6-41c8-b448-9ee2fb96103f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -31,7 +31,7 @@
       <name>class</name>
       <type>Main</type>
       <value>material-icons md-36</value>
-      <webElementGuid>819cda79-2375-437a-9128-1d630e1efe56</webElementGuid>
+      <webElementGuid>0a312f3e-5941-4ead-95e1-152d7b4bf6fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>text</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>4dfcdbaf-851d-4be8-a5fe-f94d892cc326</webElementGuid>
+      <webElementGuid>d6445ed4-468f-4488-9e3e-f644f532b7b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;sw_dropdown_641&quot;)/div[@class=&quot;cm-tooltip ty-account-info__title&quot;]/i[@class=&quot;material-icons md-36&quot;]</value>
-      <webElementGuid>6669de46-3214-4e35-bd88-3ec76a0b9338</webElementGuid>
+      <webElementGuid>5c377d27-4520-4866-8ce5-10607c65ebc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='sw_dropdown_641']/div/i</value>
-      <webElementGuid>870a86ea-a1de-45e6-861d-87703ff09999</webElementGuid>
+      <webElementGuid>19d68de7-a16f-4f20-bbc6-b1b1c8b96a9c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/following::i[1]</value>
-      <webElementGuid>14852581-6274-47ac-b0f8-3fe85968417c</webElementGuid>
+      <webElementGuid>ad4deee6-a625-4ac7-a55e-c813cf1c1ec1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng trống'])[1]/following::i[1]</value>
-      <webElementGuid>c1dbb7a3-8389-4154-bec3-00aa03554a6d</webElementGuid>
+      <webElementGuid>93672e26-810d-4ac4-a0f6-d0fe68e93008</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng'])[1]/preceding::i[1]</value>
-      <webElementGuid>4e908bde-cf18-4c5f-af3a-d6fa5753109d</webElementGuid>
+      <webElementGuid>f8a6747b-1c7c-4b71-8194-e8af0101161f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi đơn hàng của tôi'])[1]/preceding::i[1]</value>
-      <webElementGuid>67a13a4f-85ea-4fbd-a822-d4f4dbd95178</webElementGuid>
+      <webElementGuid>07d7af03-e8ef-4941-b0be-428bb87ff54a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>9ebc5763-18da-4684-9d03-5ad43159ef44</webElementGuid>
+      <webElementGuid>c185fcfc-459d-42ec-bbc3-c477fe2371c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/i</value>
-      <webElementGuid>953f31b7-5600-4f97-a2af-34d3b75ee1fb</webElementGuid>
+      <webElementGuid>df8b5f42-1c82-437d-936d-a7023736fcbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = '' or . = '')]</value>
-      <webElementGuid>80dd66a2-6267-44ee-aa5b-dff724cc763b</webElementGuid>
+      <webElementGuid>b1d91731-39f9-40f0-b15f-e22ad6a2f6c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>f536bcf3-acd9-4b7a-8610-b9b27bc826b9</webElementGuid>
+      <webElementGuid>cfcdb173-3e56-4a81-ad6a-5059b37da19e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>5937e12d-bc62-403d-bddf-dfdceb94f518</webElementGuid>
+      <webElementGuid>e94b21f4-fbdc-400e-bc11-484894dee9b2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -39,7 +39,7 @@
       <name>id</name>
       <type>Main</type>
       <value>login_popup641</value>
-      <webElementGuid>3d70710d-876c-45f8-b24c-c57d6a7e93d6</webElementGuid>
+      <webElementGuid>d7de7ded-8dd7-4e5d-976a-e649628ad6ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>name</name>
       <type>Main</type>
       <value>user_login</value>
-      <webElementGuid>044cd227-e741-4d63-99b3-870a1ddd4814</webElementGuid>
+      <webElementGuid>85289e0e-6c01-48a5-9d7a-47cd40920963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>size</name>
       <type>Main</type>
       <value>30</value>
-      <webElementGuid>7c88a909-865b-4849-890d-83fcf96f5bd2</webElementGuid>
+      <webElementGuid>d3b58853-21ea-440a-8bf1-d58b448debb6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-login__input cm-focus</value>
-      <webElementGuid>9a32efdf-6068-4c00-bfa2-a4f54772f643</webElementGuid>
+      <webElementGuid>5e5a147c-53e2-45c9-83d5-cb1ed0f4259f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;login_popup641&quot;)</value>
-      <webElementGuid>cbdb13b5-a478-4a91-9d92-285036b39226</webElementGuid>
+      <webElementGuid>a867b882-297e-4f5c-960a-205b51f932b8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='login_popup641']</value>
-      <webElementGuid>a4c773c8-6140-4545-bd2f-f53b483135dc</webElementGuid>
+      <webElementGuid>1bd6c23a-bc63-416f-9f9a-8f3a2854a2d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='popup641_login_popup_form_container']/form/div/input</value>
-      <webElementGuid>5ea2d341-fde8-4a04-a664-a09419cfe044</webElementGuid>
+      <webElementGuid>19af9070-e3a9-4346-a18c-b9d48bbc8c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/form/div/input</value>
-      <webElementGuid>753df953-3f67-400c-86b8-46e9d30dac2d</webElementGuid>
+      <webElementGuid>165f1373-e589-4ddf-8509-0fedd62571cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @id = 'login_popup641' and @name = 'user_login']</value>
-      <webElementGuid>aaab1bcf-309b-44d2-9d1c-182fd97ff565</webElementGuid>
+      <webElementGuid>42c9124d-7885-441c-8a4f-e95718deb1d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

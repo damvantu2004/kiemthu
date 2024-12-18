@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;Đăng nhập&quot;</description>
+   <name>TUI05</name>
+   <tag>ui_login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>310f3471-53a3-4c38-ae7c-eb82ac5bed11</testCaseGuid>
+</TestCaseEntity>
