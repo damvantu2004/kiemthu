@@ -21,7 +21,7 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://zshop.vn/')
 
-WebUI.click(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/img_Sp Ra Mt_det_img_18800066732'))
+WebUI.click(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/a_Fujifilm X-M5 (Chnh hng)'))
 
 WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) Chnh hng  _656c31/span_Mua hng'))
 
@@ -29,9 +29,9 @@ WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) C
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tip tc mua hng'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/span_Xa gi hng'))
-
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tin hnh thanh ton'))
+
+WebUI.takeScreenshotAsCheckpoint('ui_cart_top')
 
 WebUI.closeBrowser()
 

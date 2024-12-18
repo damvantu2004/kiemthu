@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Mua hng</name>
+   <name>span_Tip tc mua hng</name>
    <tag></tag>
-   <elementGuidId>0cb1611d-3c12-41bd-b9c8-1e068669a6d5</elementGuidId>
+   <elementGuidId>0b1c8dec-b37c-4654-a065-87a13962536d</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//button[@id='button_cart_66732']/span/span</value>
+         <value>//form[@id='checkout_form']/div/div/a/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#button_cart_66732 > span > span</value>
+         <value>a.ty-btn.ty-btn__secondary > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,86 +23,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5f143ed9-b6cd-47aa-ab0f-01e59c252a76</webElementGuid>
+      <webElementGuid>4f563fb7-5e22-4779-b860-aa0cbf582b29</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Mua hàng</value>
-      <webElementGuid>fb374f55-d5d0-4007-bcc2-7f88445bffde</webElementGuid>
+      <value>Tiếp tục mua hàng</value>
+      <webElementGuid>9499b2a7-be3d-4256-8d8a-9a3eb07e596d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;button_cart_66732&quot;)/span[1]/span[1]</value>
-      <webElementGuid>1573f50d-c915-4e80-8819-6f4fdc7323a1</webElementGuid>
+      <value>id(&quot;checkout_form&quot;)/div[@class=&quot;buttons-container ty-cart-content__top-buttons clearfix&quot;]/div[@class=&quot;ty-float-left ty-cart-content__left-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__secondary&quot;]/span[1]</value>
+      <webElementGuid>a334003c-079a-4cb6-be39-8c87b2463659</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='button_cart_66732']/span/span</value>
-      <webElementGuid>971f0c1b-8c8d-4122-b94e-1e7cedbc2786</webElementGuid>
+      <value>//form[@id='checkout_form']/div/div/a/span</value>
+      <webElementGuid>23224db5-21e3-4597-a2f5-ecd3393d7611</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::span[2]</value>
-      <webElementGuid>0c9db713-ae7c-4954-ad69-18d9c63df530</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nội dung giỏ hàng'])[2]/following::span[1]</value>
+      <webElementGuid>c9c15577-a0fd-48e2-9145-4ab07b754a11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[1]/following::span[2]</value>
-      <webElementGuid>ba24e1ba-9c8f-451f-a202-7a9dcdd4305c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::span[3]</value>
+      <webElementGuid>8ee12b07-b08e-4f2a-a17e-e565d6ae803a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua nhanh'])[1]/preceding::span[1]</value>
-      <webElementGuid>7f9e6635-e2a4-4b0d-b901-f874f7d22e43</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tính lại'])[1]/preceding::span[1]</value>
+      <webElementGuid>303c313f-6c01-4e20-963b-ded6333e5713</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay - trả sau'])[1]/preceding::span[2]</value>
-      <webElementGuid>bca755a7-5be6-4a15-a718-c7995172b139</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành thanh toán'])[1]/preceding::span[2]</value>
+      <webElementGuid>aeb29ffb-a15c-44da-84ab-930e4263b412</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Mua hàng']/parent::*</value>
-      <webElementGuid>8179d71d-2841-489a-a980-cbb77410569f</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Tiếp tục mua hàng']/parent::*</value>
+      <webElementGuid>06835505-d03a-45d5-9b0c-9d5e6450303b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[6]/div/button/span/span</value>
-      <webElementGuid>dfc99efc-bf13-4ae8-8062-feba7a16de43</webElementGuid>
+      <value>//div/a/span</value>
+      <webElementGuid>40ebfe89-5b8f-4531-8caa-2284d033dfa4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Mua hàng' or . = 'Mua hàng')]</value>
-      <webElementGuid>0d7d4b73-99e9-4e83-b672-258357fd71a5</webElementGuid>
+      <value>//span[(text() = 'Tiếp tục mua hàng' or . = 'Tiếp tục mua hàng')]</value>
+      <webElementGuid>f6867911-c7a0-469f-8de2-1a6a5a77470f</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>c7e61ebd-81a1-437b-9eb2-542eaae1a99c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.ty-float-left.ty-cart-content__left-buttons > a.ty-btn.ty-btn__secondary</value>
+         <key>XPATH</key>
+         <value></value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//form[@id='checkout_form']/div/div/a</value>
+         <key>CSS</key>
+         <value>div.ty-float-left.ty-cart-content__left-buttons > a.ty-btn.ty-btn__secondary</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>e4996ec3-6e41-4afc-b419-269f691fba56</webElementGuid>
+      <webElementGuid>81bc0f9e-b5bb-4221-924b-94721a2495e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://zshop.vn/may-anh-mirrorless-fujifilm/</value>
-      <webElementGuid>77221677-4c17-45d2-ba24-7459fec57acd</webElementGuid>
+      <webElementGuid>d365c0f2-ab56-426c-ac1b-178740391b0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-btn ty-btn__secondary </value>
-      <webElementGuid>f8cf682b-5923-4d26-a34c-6fa002fcdf02</webElementGuid>
+      <webElementGuid>cb995415-6c61-4d6e-9a64-37d81542e58f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiếp tục mua hàng</value>
-      <webElementGuid>2f808fa4-dc1a-4259-8e63-ead65aa1de04</webElementGuid>
+      <webElementGuid>21a0c77c-e9a4-4460-b6c4-6396cb4ff216</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_form&quot;)/div[@class=&quot;buttons-container ty-cart-content__top-buttons clearfix&quot;]/div[@class=&quot;ty-float-left ty-cart-content__left-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__secondary&quot;]</value>
-      <webElementGuid>fae5a295-196e-4fed-b6fd-94b067cd739d</webElementGuid>
+      <webElementGuid>5d084de5-377f-4898-bf18-376e6353e86e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='checkout_form']/div/div/a</value>
-      <webElementGuid>7ae0bd25-e306-4f3b-bb97-4b309df017b6</webElementGuid>
+      <webElementGuid>365b1e23-adbc-4029-aad8-bce047d4a57b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nội dung giỏ hàng'])[2]/following::a[1]</value>
-      <webElementGuid>ebeaa64e-1cdf-4670-a8de-e5b9bf83d1ac</webElementGuid>
+      <webElementGuid>f2a4864d-4fe1-4ea7-93ed-95a2694dae2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[1]</value>
-      <webElementGuid>093b1d44-e977-4e72-89e5-167927e4cf02</webElementGuid>
+      <webElementGuid>1640e08c-aec2-45f4-9160-02f32591eefc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tính lại'])[1]/preceding::a[1]</value>
-      <webElementGuid>4321e3ce-ba92-4a90-ac8b-e76a55b74680</webElementGuid>
+      <webElementGuid>1a130c88-e6d6-45a7-825d-ae0cc2f1908d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://zshop.vn/may-anh-mirrorless-fujifilm/')])[2]</value>
-      <webElementGuid>455d73ef-4ce7-465c-840d-53e504028c27</webElementGuid>
+      <webElementGuid>cacff6c6-8c3f-460d-a37c-c46beb72caba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/a</value>
-      <webElementGuid>c281faa7-aeb8-4b16-99d5-9221a764c8c2</webElementGuid>
+      <webElementGuid>f50f57f0-a326-428f-bada-d877fe444ddc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://zshop.vn/may-anh-mirrorless-fujifilm/' and (text() = 'Tiếp tục mua hàng' or . = 'Tiếp tục mua hàng')]</value>
-      <webElementGuid>9c62e0c9-023c-4eac-bad5-f4864e4cbb5d</webElementGuid>
+      <webElementGuid>76e1a904-4994-4c37-94e8-48d76d3888d4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

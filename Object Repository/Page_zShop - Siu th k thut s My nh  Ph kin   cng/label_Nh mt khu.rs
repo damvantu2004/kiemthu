@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Nh mt khu</name>
+   <tag></tag>
+   <elementGuidId>415e6505-1e64-476e-9ad1-4440701a2cb0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup641_login_popup_form_container']/form/div[5]/div[2]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.ty-login__remember-me-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5d855b63-c6d3-4a13-b975-09b26430d5b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>remember_me_popup641</value>
+      <webElementGuid>9b2fe040-7d04-4df9-9459-d1aec776cb6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-login__remember-me-label</value>
+      <webElementGuid>7b7c8716-0a6d-449f-a670-a19ee6f15085</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nhớ mật khẩu</value>
+      <webElementGuid>1f929bed-9bc9-408e-927a-266bf5fe4dee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup641_login_popup_form_container&quot;)/form[@class=&quot;cm-ajax cm-ajax-full-render cm-processed-form&quot;]/div[@class=&quot;buttons-container clearfix buttons-container-picker&quot;]/div[@class=&quot;ty-login__remember-me&quot;]/label[@class=&quot;ty-login__remember-me-label&quot;]</value>
+      <webElementGuid>a6eb210e-b2e0-40fd-b2b7-c00f3c19a4a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup641_login_popup_form_container']/form/div[5]/div[2]/label</value>
+      <webElementGuid>5f6ca7ae-ffd2-4ca8-a0b4-71e51768c730</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/following::label[1]</value>
+      <webElementGuid>d56ceadb-fb4e-4b0d-b874-ced935e0d1ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[2]/following::label[1]</value>
+      <webElementGuid>793c97b1-a6cb-4c22-9568-c0d523cfd308</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nhớ mật khẩu']/parent::*</value>
+      <webElementGuid>7b946e35-5403-4b7c-ba0d-d29eba25719d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div[2]/label</value>
+      <webElementGuid>1cc0995e-01e5-40ac-8abc-f69b1fbdea47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Nhớ mật khẩu' or . = 'Nhớ mật khẩu')]</value>
+      <webElementGuid>800e85cf-fca4-4529-a802-66cba73555db</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

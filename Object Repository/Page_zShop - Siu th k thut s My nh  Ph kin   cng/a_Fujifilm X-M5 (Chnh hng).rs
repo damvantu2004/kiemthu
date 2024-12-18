@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Fujifilm X-M5 (Chnh hng)</name>
+   <tag></tag>
+   <elementGuidId>a3a554c8-f955-4de1-bdb2-28a262d13e9c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='scroll_list_188']/div/div/div/div/div/form/div/div[4]/a//div[@id='scroll_list_188']/div/div/div/div/div/form/div/div[4]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.product-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5ad02095-ebc5-483b-919f-3d236a8c68e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://zshop.vn/fujifilm-x-m5.html</value>
+      <webElementGuid>24314cee-6b38-4bc8-a94d-226655b48dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-title</value>
+      <webElementGuid>f6131c19-8acb-4527-80e9-3e265828f350</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Fujifilm X-M5 (Chính hãng)</value>
+      <webElementGuid>cae88e9f-d571-423a-9844-3674ddaf2e97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fujifilm X-M5 (Chính hãng)</value>
+      <webElementGuid>a399099c-f512-4a1a-aefc-a013f9ffd5fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;scroll_list_188&quot;)/div[@class=&quot;owl-wrapper-outer&quot;]/div[@class=&quot;owl-wrapper&quot;]/div[@class=&quot;owl-item&quot;]/div[@class=&quot;ypi-scroller-list__item&quot;]/div[@class=&quot;ty-grid-list__item ty-quick-view-button__wrapper no-buttons&quot;]/form[@class=&quot;cm-disable-empty-files cm-ajax cm-ajax-full-render cm-ajax-status-middle cm-processed-form&quot;]/div[@class=&quot;ypi-grid-list__item_body&quot;]/div[@class=&quot;ty-grid-list__item-name&quot;]/a[@class=&quot;product-title&quot;]</value>
+      <webElementGuid>de030c96-3fad-4c9c-b6f2-064a38274dd9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='scroll_list_188']/div/div/div/div/div/form/div/div[4]/a</value>
+      <webElementGuid>5aa36b35-ee55-4a61-a21a-7b6828714bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Fujifilm X-M5 (Chính hãng)')]</value>
+      <webElementGuid>76372bbc-cbe4-4c2d-aed1-65c9fbc46973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sắp Ra Mắt'])[1]/following::a[2]</value>
+      <webElementGuid>d9186d1f-b027-4ec2-870a-ce859eeda57a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOT DEALS'])[1]/following::a[3]</value>
+      <webElementGuid>5191861a-dea1-4fd9-ab57-2bfce1d7b14e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[1]/preceding::a[1]</value>
+      <webElementGuid>cb09852d-ef70-47ab-b2ad-3d9ea133dd0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fujifilm X-M5 (Chính hãng)']/parent::*</value>
+      <webElementGuid>fff48d20-9390-40a2-a311-ddd18794ee0a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://zshop.vn/fujifilm-x-m5.html')])[2]</value>
+      <webElementGuid>03e13ceb-ad04-4606-954f-13bf7f94ad81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[4]/a</value>
+      <webElementGuid>b2bbb167-f7cf-4516-a137-57a92bc13496</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://zshop.vn/fujifilm-x-m5.html' and @title = 'Fujifilm X-M5 (Chính hãng)' and (text() = 'Fujifilm X-M5 (Chính hãng)' or . = 'Fujifilm X-M5 (Chính hãng)')]</value>
+      <webElementGuid>106e2ada-1e6d-4948-b9d2-4d6bddb8f5a8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

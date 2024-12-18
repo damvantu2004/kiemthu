@@ -29,7 +29,7 @@ WebUI.verifyElementVisible(findTestObject('Object Repository/Page_zShop - Siu th
 
 WebUI.verifyElementVisible(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/label_Nh mt khu'))
 
-WebUI.takeScreenshotAsCheckpoint('ui_login_checkbox')
+WebUI.takeScreenshotAsCheckpoint('ui_login_tickbox')
 
 WebUI.closeBrowser()
 
