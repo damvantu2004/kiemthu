@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_ng k ti khon mi</name>
+   <tag></tag>
+   <elementGuidId>132cbcd7-c006-4efb-a8ff-264b317eab72</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ty-login-reglink__a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup641_login_popup_form_container']/form/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>122756e9-00a8-4e6d-8929-18e5bcfe4f58</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-login-reglink__a</value>
+      <webElementGuid>0ce87527-c8b3-41c7-8bef-f3b3ddae58d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://zshop.vn/profiles-add-vi.html</value>
+      <webElementGuid>cf060315-f0f5-4dbe-bbf9-6856c467ab04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rel</name>
+      <type>Main</type>
+      <value>nofollow</value>
+      <webElementGuid>62f95086-10f2-4b70-bb17-15f0cc53ced1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Đăng ký tài khoản mới</value>
+      <webElementGuid>a641cd1a-d01f-48ab-817f-551773a7e22b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup641_login_popup_form_container&quot;)/form[@class=&quot;cm-ajax cm-ajax-full-render cm-processed-form&quot;]/div[@class=&quot;ty-login-reglink ty-center&quot;]/a[@class=&quot;ty-login-reglink__a&quot;]</value>
+      <webElementGuid>2007f6d6-5e9f-484d-b62f-569ac9364360</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup641_login_popup_form_container']/form/div[3]/a</value>
+      <webElementGuid>24220bc6-dd61-46c4-855b-58151190d3c0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Đăng ký tài khoản mới')]</value>
+      <webElementGuid>c0589cf6-d20f-4d82-b811-43ad4ea78740</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quên mật khẩu?'])[1]/following::a[1]</value>
+      <webElementGuid>20f785a3-af44-45ef-9756-70b0b22309ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu'])[1]/following::a[2]</value>
+      <webElementGuid>04ab2210-8d0b-43ef-adf9-a2f16c3488aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[2]/preceding::a[1]</value>
+      <webElementGuid>24a2a4d3-fedc-428d-aed8-f557308a806c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[3]/preceding::a[1]</value>
+      <webElementGuid>b1f5f26f-5ddf-4e30-af2f-514702ef4673</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đăng ký tài khoản mới']/parent::*</value>
+      <webElementGuid>0a55a2da-d8ee-48db-aecb-3a8c117131c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://zshop.vn/profiles-add-vi.html')])[2]</value>
+      <webElementGuid>6415170d-4b17-4a2a-880f-4e0e48ea25e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[3]/a</value>
+      <webElementGuid>bf13c171-5c51-4094-bc34-194c9497b94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://zshop.vn/profiles-add-vi.html' and (text() = 'Đăng ký tài khoản mới' or . = 'Đăng ký tài khoản mới')]</value>
+      <webElementGuid>cfdcc2bc-5698-43ad-9efd-8f3ded86b42f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

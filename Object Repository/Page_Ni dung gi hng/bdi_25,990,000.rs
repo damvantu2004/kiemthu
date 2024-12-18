@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>bdi_25,990,000</name>
+   <tag></tag>
+   <elementGuidId>8cdeb170-2ba2-47c6-968b-3357d4d7335a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#price_display_update_2253224695 > bdi</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//td[@id='price_display_update_2253224695']/bdi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>bdi</value>
+      <webElementGuid>95f2f2b5-5205-401a-89c8-1041e8b31d26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>25,990,000 đ</value>
+      <webElementGuid>99a212cf-523b-4f56-ae40-873b8c555a11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;price_display_update_2253224695&quot;)/bdi[1]</value>
+      <webElementGuid>2cedc002-9273-47ec-b3f8-e78730b2d355</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//td[@id='price_display_update_2253224695']/bdi</value>
+      <webElementGuid>727fb0d3-2061-4f11-b640-38c2d1336d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[3]/preceding::bdi[1]</value>
+      <webElementGuid>f4613540-4610-403f-9ef7-ecb2d1d8d8dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/bdi</value>
+      <webElementGuid>5cdfe39b-ada3-4ea5-8f4a-8ceebf059636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//bdi[(text() = '25,990,000 đ' or . = '25,990,000 đ')]</value>
+      <webElementGuid>6a2699e0-68f2-41e3-aa4e-f82029df8a4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

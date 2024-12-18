@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td__ty-cart-content__product-elem ty-cart-c_e9cd63</name>
+   <tag></tag>
+   <elementGuidId>202c420b-c25b-4a93-80dd-8fa7f28a0a6a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.ty-cart-content__product-elem.ty-cart-content__qty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cart_items']/table/tbody/tr/td[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>781c1aee-4ef1-4da1-856c-f2c8454dfb7f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-cart-content__product-elem ty-cart-content__qty </value>
+      <webElementGuid>ef0eac0b-9d95-4b47-9fd2-26fae50273a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cart_items&quot;)/table[@class=&quot;ty-cart-content ty-table&quot;]/tbody[1]/tr[1]/td[@class=&quot;ty-cart-content__product-elem ty-cart-content__qty&quot;]</value>
+      <webElementGuid>256c6c5d-a2cd-4248-bed6-3b7017d277b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_items']/table/tbody/tr/td[4]</value>
+      <webElementGuid>ea6d124a-7b32-482e-8e5e-a5188678d42f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[2]/following::td[1]</value>
+      <webElementGuid>3598fa3f-7fba-46b6-81dc-1701218e2676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[3]/preceding::td[1]</value>
+      <webElementGuid>920f07d8-42e6-430b-be00-9a8e3ef86aba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mã giảm giá'])[1]/preceding::td[2]</value>
+      <webElementGuid>1d818936-dfb8-4e20-8ce5-092df3e62e13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>b4420d98-00f0-4446-b2ad-98e78101fdb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

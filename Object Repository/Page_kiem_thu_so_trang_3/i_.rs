@@ -6,12 +6,12 @@
    <elementGuidId>9505d3a1-f93a-4a11-b978-77d7088af143</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='tygh_main_container']/div/div/div[2]/div/div[2]/div[4]/div/form/button/i</value>
+         <key>CSS</key>
+         <value>div.cm-tooltip.ty-account-info__title > i.material-icons.md-36</value>
       </entry>
       <entry>
-         <key>CSS</key>
-         <value>i.material-icons.md-24.md-dark</value>
+         <key>XPATH</key>
+         <value>//div[@id='sw_dropdown_641']/div/i</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,39 +23,159 @@
       <name>tag</name>
       <type>Main</type>
       <value>i</value>
-      <webElementGuid>17821c40-1895-4393-becb-c88a1d30bf37</webElementGuid>
+      <webElementGuid>0368d223-1ef6-41c8-b448-9ee2fb96103f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>material-icons md-24 md-dark</value>
-      <webElementGuid>dec951ea-08b4-4bd0-8829-b18506f0da9c</webElementGuid>
+      <value>material-icons md-36</value>
+      <webElementGuid>0a312f3e-5941-4ead-95e1-152d7b4bf6fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value></value>
-      <webElementGuid>af5dc583-eb0e-40e3-83a5-068a1cc3c443</webElementGuid>
+      <value></value>
+      <webElementGuid>d6445ed4-468f-4488-9e3e-f644f532b7b9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-top-panel clearfix&quot;]/div[@class=&quot;container-fluid  top-grid&quot;]/div[@class=&quot;container-fluid-row ypi-logo&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span10 ypi-cart-user-wrap ypi-fix-height-header&quot;]/div[@class=&quot;ypi-search ty-float-right&quot;]/div[@class=&quot;ty-search-block&quot;]/form[@class=&quot;cm-processed-form&quot;]/button[@class=&quot;ty-search-magnifier&quot;]/i[@class=&quot;material-icons md-24 md-dark&quot;]</value>
-      <webElementGuid>807b1903-5103-4b2a-9fd6-2f1e7df39aab</webElementGuid>
+      <value>id(&quot;sw_dropdown_641&quot;)/div[@class=&quot;cm-tooltip ty-account-info__title&quot;]/i[@class=&quot;material-icons md-36&quot;]</value>
+      <webElementGuid>5c377d27-4520-4866-8ce5-10607c65ebc8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
+      <value>//div[@id='sw_dropdown_641']/div/i</value>
+      <webElementGuid>19d68de7-a16f-4f20-bbc6-b1b1c8b96a9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/following::i[1]</value>
+      <webElementGuid>ad4deee6-a625-4ac7-a55e-c813cf1c1ec1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng trống'])[1]/following::i[1]</value>
+      <webElementGuid>93672e26-810d-4ac4-a0f6-d0fe68e93008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng'])[1]/preceding::i[1]</value>
+      <webElementGuid>f8a6747b-1c7c-4b71-8194-e8af0101161f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Theo dõi đơn hàng của tôi'])[1]/preceding::i[1]</value>
+      <webElementGuid>07d7af03-e8ef-4941-b0be-428bb87ff54a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>c185fcfc-459d-42ec-bbc3-c477fe2371c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/i</value>
+      <webElementGuid>df8b5f42-1c82-437d-936d-a7023736fcbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = '' or . = '')]</value>
+      <webElementGuid>b1d91731-39f9-40f0-b15f-e22ad6a2f6c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sw_dropdown_640']/i</value>
+      <webElementGuid>e0dc3cc6-ad2e-4725-9311-12ea149a7bf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more_horiz'])[1]/following::i[1]</value>
+      <webElementGuid>6d261aab-cfe4-4cc8-ac9a-42bf9962e9dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Giỏ hàng trống'])[1]/preceding::i[1]</value>
+      <webElementGuid>3dadaf65-0cd8-4dba-8a3a-00b957bb38a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem giỏ hàng'])[1]/preceding::i[1]</value>
+      <webElementGuid>f3cb46b1-7fbf-41e8-ae93-cfc1d0b361d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>4123d8e1-f4fe-461b-9160-410460d928e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/i</value>
+      <webElementGuid>60d6cab2-1e67-4a52-94ff-85d31377e66b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = '' or . = '')]</value>
+      <webElementGuid>bbe5a9f2-ddc3-4467-a3f7-81561773cb77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
       <value>//div[@id='tygh_main_container']/div/div/div[2]/div/div[2]/div[4]/div/form/button/i</value>
-      <webElementGuid>7e920083-6965-46b2-92d9-5e838082bb82</webElementGuid>
+      <webElementGuid>c4bdd0f4-c8d5-4094-8fdb-c3f23f11ee55</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +183,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nhớ mật khẩu'])[1]/following::i[1]</value>
-      <webElementGuid>309ae820-ad97-46a3-87e3-a611c070b9ee</webElementGuid>
+      <webElementGuid>3e3fb514-a03f-4a80-bece-c5b779d108b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +191,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[2]/following::i[1]</value>
-      <webElementGuid>d1c84bbe-5161-432e-b2d7-5b2b19d20181</webElementGuid>
+      <webElementGuid>2d1b691f-3e97-408d-aba0-4a46abc23e7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +199,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::i[1]</value>
-      <webElementGuid>29dce65f-cf74-4ea9-91e2-37993d3b14d7</webElementGuid>
+      <webElementGuid>5b8ab5b1-e5c9-4df2-9ff5-789351861403</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +207,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Menu'])[1]/preceding::i[2]</value>
-      <webElementGuid>125a8a45-4937-4ca6-8e97-b68135df71c4</webElementGuid>
+      <webElementGuid>af8ee778-599f-48d0-8a43-331f10403332</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +215,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='']/parent::*</value>
-      <webElementGuid>49e80c56-ec2b-446f-8bca-6378f20bae8c</webElementGuid>
+      <webElementGuid>611d4bfa-b4e5-4d42-a451-65b4836e4959</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +223,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/i</value>
-      <webElementGuid>4a228fa5-a6fa-4a26-a907-ee4d2a3a2195</webElementGuid>
+      <webElementGuid>1a535e36-a626-4612-9714-7b6ce9d2cada</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +231,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//i[(text() = '' or . = '')]</value>
-      <webElementGuid>80874d4c-9038-4c40-a7f4-a64a3dd0ab44</webElementGuid>
+      <webElementGuid>c4569dfe-ea4a-4d5a-a3f7-f5de956a7f93</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

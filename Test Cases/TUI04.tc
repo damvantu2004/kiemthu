@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Kiểm tra hiển thị và định dạng kích thước Tick box &quot;Nhớ mật khẩu&quot;</description>
+   <name>TUI04</name>
+   <tag>ui_login</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c6a83d2-a7c4-46e1-8c8d-83fee95a7cb9</testCaseGuid>
+</TestCaseEntity>

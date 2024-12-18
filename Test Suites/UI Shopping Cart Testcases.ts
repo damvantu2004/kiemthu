@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>UI Product Catalog Testcases</name>
+   <name>UI Shopping Cart Testcases</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,26 +10,33 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>false</rerunImmediately>
-   <testSuiteGuid>03a6303a-a70c-4e72-9818-ebb2c0c5680a</testSuiteGuid>
+   <testSuiteGuid>d7d47e64-6a95-46ab-a526-c697e4a42ba4</testSuiteGuid>
    <testCaseLink>
-      <guid>4c825155-590a-4570-8440-e72ded8256a7</guid>
+      <guid>eb3e3817-5da1-4a66-b457-30aec172ff26</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TUI08</testCaseId>
+      <testCaseId>Test Cases/TUI14</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>985b888d-24b2-41b8-b302-9e1ef231f216</guid>
+      <guid>148f3c35-c643-45d0-bb63-93d7116eed5d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TUI09</testCaseId>
+      <testCaseId>Test Cases/TUI15</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>17cb5117-f95b-49b4-8661-ab690829def3</guid>
+      <guid>1959bb03-f54e-4793-afdb-3f665dd316fc</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TUI10</testCaseId>
+      <testCaseId>Test Cases/TUI16</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e516da27-e59f-454f-b749-813aa47e4ce5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TUI17</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

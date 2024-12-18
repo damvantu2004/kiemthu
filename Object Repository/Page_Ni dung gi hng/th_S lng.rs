@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_S lng</name>
+   <tag></tag>
+   <elementGuidId>fcbec1c0-3af0-4b5b-bea1-5f8f8bb000a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#promotional_gift_2253224695 > table.ty-table > thead > tr > th:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='promotional_gift_2253224695']/table/thead/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>ed5db06b-3bbc-4f7e-b076-d40b2a925391</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Số lượng</value>
+      <webElementGuid>86e6cecc-9be0-4a2c-8558-ec160ee83646</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;promotional_gift_2253224695&quot;)/table[@class=&quot;ty-table&quot;]/thead[1]/tr[1]/th[2]</value>
+      <webElementGuid>fc7305d6-e1e4-473b-ae7e-806688ff3ab9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='promotional_gift_2253224695']/table/thead/tr/th[2]</value>
+      <webElementGuid>a9dc17ae-927e-4aa4-8588-dd758fd71e98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[2]/following::th[1]</value>
+      <webElementGuid>1a65806f-f10f-4808-83c4-8403be02d298</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quà tặng:'])[1]/following::th[2]</value>
+      <webElementGuid>c5d9242c-e03f-410b-bbfd-97f1d84f977f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thẻ nhớ SDHC SanDisk Extreme Pro UHS-I 32GB 100MB/s'])[1]/preceding::th[1]</value>
+      <webElementGuid>aa675559-b08c-4ac7-b791-6fc9691d7a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//bdi/div/div/table/thead/tr/th[2]</value>
+      <webElementGuid>29f45555-f16f-40f5-8362-b521d30fa82f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Số lượng' or . = 'Số lượng')]</value>
+      <webElementGuid>564b43ac-f3a4-439b-8df2-744f19dc77f6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

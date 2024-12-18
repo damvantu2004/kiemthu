@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_M X-M5_B</name>
+   <tag></tag>
+   <elementGuidId>954d5def-298e-4c7d-837d-68373db7f21a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#sku_2253224695</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sku_2253224695']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6574ecc7-6e86-4c5f-bd5c-7e86517fe6d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-cart-content__sku ty-sku cm-hidden-wrapper </value>
+      <webElementGuid>1315c5cd-167b-4ad0-8a72-6928700ded9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>sku_2253224695</value>
+      <webElementGuid>ccc2db65-efdd-455a-aa62-d63f1700f6ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+			MÃ: X-M5_B
+		</value>
+      <webElementGuid>52702bea-e3fc-4094-9812-58a1feb44058</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sku_2253224695&quot;)</value>
+      <webElementGuid>d5852447-20c6-486c-88bd-f2ff9d6a1f36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='sku_2253224695']</value>
+      <webElementGuid>4b960b6d-0aa5-4077-af1d-95b66e639c74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='cart_items']/table/tbody/tr/td[2]/div[2]</value>
+      <webElementGuid>504cde56-232e-4162-b89f-790ce42b453e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Body Only • Black'])[1]/following::div[1]</value>
+      <webElementGuid>ff4b7250-435d-4e06-bdeb-097b4a365439</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fujifilm X-M5 (Chính hãng)'])[2]/following::div[2]</value>
+      <webElementGuid>9d562177-58e3-48a2-8930-c1a4f119ed76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div[2]</value>
+      <webElementGuid>f7f3bf9b-89b6-41f0-8998-cc8dcafb147e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'sku_2253224695' and (text() = '
+			MÃ: X-M5_B
+		' or . = '
+			MÃ: X-M5_B
+		')]</value>
+      <webElementGuid>3ef64399-543a-432d-966c-9d09457ed635</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

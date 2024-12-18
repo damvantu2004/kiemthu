@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Qun mt khu</name>
+   <tag></tag>
+   <elementGuidId>c13c90b3-446a-4eec-bb9b-5ec1bf19aa6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.ty-password-forgot__a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='popup641_login_popup_form_container']/form/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d6896a1f-bf93-498a-ad73-83cc5b605e7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://zshop.vn/index.php?dispatch=auth.recover_password</value>
+      <webElementGuid>d8004acb-7818-4ba8-92ed-da2a5262e333</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-password-forgot__a</value>
+      <webElementGuid>ea404906-e648-4a99-ad94-22055afdcf01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>1ef14fc5-fd60-45b0-8742-815dfc1914be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Quên mật khẩu?</value>
+      <webElementGuid>ced77b32-1592-46bb-8b75-56b60746c789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;popup641_login_popup_form_container&quot;)/form[@class=&quot;cm-ajax cm-ajax-full-render cm-processed-form&quot;]/div[@class=&quot;ty-control-group ty-password-forgot&quot;]/a[@class=&quot;ty-password-forgot__a&quot;]</value>
+      <webElementGuid>843f48da-2aa5-4eea-89a2-4fc7990fd273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='popup641_login_popup_form_container']/form/div[2]/a</value>
+      <webElementGuid>6c06c7be-9389-4b18-8b65-0a5767e43dbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Quên mật khẩu?')]</value>
+      <webElementGuid>ea364d2d-5898-4f73-baf2-3852e5a69521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mật khẩu'])[1]/following::a[1]</value>
+      <webElementGuid>824d7d93-45ee-4f98-a9e1-057b8534c99f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E-mail'])[2]/following::a[1]</value>
+      <webElementGuid>b7488322-68f7-4942-a6d3-387fbc593a71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng ký tài khoản mới'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba99f7d5-e7e6-49f2-bd38-66469f48df7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xác nhận chống bot'])[2]/preceding::a[2]</value>
+      <webElementGuid>f8d18d60-2b7a-477e-bf45-c8e848c9ec95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Quên mật khẩu?']/parent::*</value>
+      <webElementGuid>8790c741-2ccd-4a8a-ae67-15add07d1a9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://zshop.vn/index.php?dispatch=auth.recover_password')]</value>
+      <webElementGuid>e0cfa5c3-542d-47dd-8291-b47adebc7e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/a</value>
+      <webElementGuid>fb6f421e-3c1d-4289-b35f-80dd434329ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://zshop.vn/index.php?dispatch=auth.recover_password' and (text() = 'Quên mật khẩu?' or . = 'Quên mật khẩu?')]</value>
+      <webElementGuid>88653a51-eb8c-4e12-b426-f03979cbf536</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
