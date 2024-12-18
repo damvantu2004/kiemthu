@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_kiem_thu_nut_mua_nhanh</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1ce7546b-4325-48cf-9db3-ece36da13aaf</testCaseGuid>
+</TestCaseEntity>

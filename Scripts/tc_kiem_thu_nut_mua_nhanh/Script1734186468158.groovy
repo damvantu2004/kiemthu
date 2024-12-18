@@ -20,25 +20,20 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://zshop.vn/')
-// Hàm kiểm tra URL
-void verifyCurrentUrl(String expectedUrl) {
-	String actualUrl = WebUI.getUrl()
-	if (actualUrl == expectedUrl) {
-		WebUI.comment('URL is correct: ' + actualUrl)
-	} else {
-		WebUI.comment('Expected URL: ' + expectedUrl + ' but found: ' + actualUrl)
-		WebUI.verifyEqual(actualUrl, expectedUrl, FailureHandling.STOP_ON_FAILURE)
-	}
-}
-WebUI.click(findTestObject('Object Repository/Page_kiem_thu_so_trang_3/bdi_Khuyn Mi'))
-verifyCurrentUrl('https://zshop.vn/khuyen-mai/')
 
-WebUI.click(findTestObject('Object Repository/Page_kiem_thu_so_trang2/span_Tip theo'))
-WebUI.delay(3)
-verifyCurrentUrl('https://zshop.vn/khuyen-mai/page-2/')
+WebUI.click(findTestObject('Object Repository/Page_mua nhanh/img_Sp Ra Mt_det_img_18800066732'))
 
-WebUI.click(findTestObject('Object Repository/Page_kiem_thu_so_trang2/span_Trc'))
-WebUI.delay(2)
-verifyCurrentUrl('https://zshop.vn/khuyen-mai/')
-WebUI.closeBrowser()
+WebUI.click(findTestObject('Object Repository/Page_mua nhanh/span_Mua nhanh'))
+
+WebUI.setText(findTestObject('Object Repository/Page_mua nhanh/input_H v Tn ca bn_call_dataname'), 'Hưng Phúc')
+
+WebUI.setText(findTestObject('Object Repository/Page_mua nhanh/input_in thoi_call_dataphone'), '0987654321')
+
+WebUI.setText(findTestObject('Object Repository/Page_mua nhanh/input_a ch_call_dataaddress'), '10 Trần Đại Nghĩa, HBT, Hà Nội')
+
+WebUI.setText(findTestObject('Object Repository/Page_mua nhanh/input_E-mail_call_dataemail2'), 'hqr@gmail.com')
+
+WebUI.setText(findTestObject('Object Repository/Page_mua nhanh/input_Xc nhn chng bot_native_captcha_response'), '')
+
+WebUI.click(findTestObject('Object Repository/Page_mua nhanh/button_Gi'))
 

@@ -21,11 +21,11 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://zshop.vn/')
 
-WebUI.verifyElementVisible(findTestObject('Page_zShop - Siu th k thut s My nh  Ph kin   cng/input_Nh mt khu_hint_q'), FailureHandling.STOP_ON_FAILURE)
+WebUI.verifyElementVisible(findTestObject('Page_kiem_thu_so_trang_3/input_Nh mt khu_hint_q'), FailureHandling.STOP_ON_FAILURE)
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/i_'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_kiem_thu_so_trang_3/i_'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh  Ph kin   cng/button_'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_kiem_thu_so_trang_3/button_'))
 
 WebUI.closeBrowser()
 
