@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Kiểm tra hiển thị và định dạng kích thước nút &quot;TIẾP TỤC MUA HÀNG&quot;, nút &quot;XÓA GIỎ HÀNG&quot; và nút &quot;TIẾN HÀNH THANH TOÁN&quot;</description>
-   <name>TUI16</name>
-   <tag>ui_shopping_cart</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ff138932-6a3c-4469-9082-2bf470f09876</testCaseGuid>
-</TestCaseEntity>

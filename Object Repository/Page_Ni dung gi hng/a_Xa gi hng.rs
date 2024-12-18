@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Xa gi hng</name>
+   <tag></tag>
+   <elementGuidId>6e1854fb-ddef-4a1d-a70d-f3677a98b3fa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tygh_main_container']/div[3]/div/div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ty-btn.ty-btn__tertiary.text-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2ade6cea-7469-4094-aa1c-166dc73372cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ty-btn ty-btn__tertiary text-button </value>
+      <webElementGuid>9b120639-3a8e-4e57-a11f-94d3317ece3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://zshop.vn/index.php?dispatch=checkout.clear</value>
+      <webElementGuid>504cdc5e-fd93-4d83-b4db-0696aa04126b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xóa giỏ hàng</value>
+      <webElementGuid>2adec810-0fb4-4a35-9dd1-ca34a2d8ad24</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tygh_main_container&quot;)/div[@class=&quot;tygh-content clearfix&quot;]/div[@class=&quot;container-fluid  content-grid ypi-cart-grid&quot;]/div[@class=&quot;container-fluid-row main-content-grid&quot;]/div[@class=&quot;row-fluid&quot;]/div[@class=&quot;span16 main-content-grid&quot;]/div[@class=&quot;ty-mainbox-container clearfix&quot;]/div[@class=&quot;ty-mainbox-body&quot;]/div[@class=&quot;buttons-container ty-cart-content__bottom-buttons clearfix&quot;]/div[@class=&quot;ty-float-left ty-cart-content__left-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__tertiary text-button&quot;]</value>
+      <webElementGuid>99e287e3-1d8a-401b-b669-9f46a33f983c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tygh_main_container']/div[3]/div/div[2]/div/div/div/div/div[2]/div/a[2]</value>
+      <webElementGuid>81adcfeb-d129-43cc-b9dd-8ae621e0999d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[2]/following::a[1]</value>
+      <webElementGuid>265c1705-90ba-4ebd-bfca-4a016e25010b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='đ'])[4]/following::a[2]</value>
+      <webElementGuid>ea361835-f48c-4001-946d-048bb911f11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiến hành thanh toán'])[2]/preceding::a[1]</value>
+      <webElementGuid>97021edf-f9f7-464e-ab33-c41af80d59c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://zshop.vn/index.php?dispatch=checkout.clear')]</value>
+      <webElementGuid>895c54ee-042c-44f1-bc09-f3dd74b709c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a[2]</value>
+      <webElementGuid>8eb9237b-257c-416b-a395-542f2f349a30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://zshop.vn/index.php?dispatch=checkout.clear' and (text() = 'Xóa giỏ hàng' or . = 'Xóa giỏ hàng')]</value>
+      <webElementGuid>a237b80f-dd31-4276-83db-172ad3ebbe78</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

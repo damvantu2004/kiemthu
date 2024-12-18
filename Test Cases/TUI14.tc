@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
-   <description>Kiểm tra hiển thị và định dạng kích thước sản phẩm trong Giỏ hàng</description>
+   <description>Kiểm tra hiển thị và định dạng kích thước thông tin sản phẩm trong Giỏ hàng</description>
    <name>TUI14</name>
    <tag>ui_shopping_cart</tag>
    <comment></comment>
