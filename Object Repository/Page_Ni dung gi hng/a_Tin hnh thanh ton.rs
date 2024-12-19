@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>10707222-8cfd-4f70-9507-364c3ab855cc</webElementGuid>
+      <webElementGuid>b5bd0a39-ace4-4584-be4d-28fa7f6add43</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://zshop.vn/checkout-checkout.html</value>
-      <webElementGuid>1ab3672d-f69c-44c2-88ec-7b9b4c790ea7</webElementGuid>
+      <webElementGuid>ae1ca8d9-906e-4186-86c6-2b2f0e788402</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-btn ty-btn__primary </value>
-      <webElementGuid>b8d99f5e-3bd0-49c9-ab54-12f5095f0398</webElementGuid>
+      <webElementGuid>5b84da34-6522-4dd0-a20f-d01b2378c21b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiến hành thanh toán</value>
-      <webElementGuid>98b43eb6-516a-42a9-a2b8-e1021a1f624e</webElementGuid>
+      <webElementGuid>1172d431-51f7-496b-adaa-3f9f7681e250</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_form&quot;)/div[@class=&quot;buttons-container ty-cart-content__top-buttons clearfix&quot;]/div[@class=&quot;ty-float-right ty-cart-content__right-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__primary&quot;]</value>
-      <webElementGuid>e9cefa51-27a0-43d5-bc53-9976967e5272</webElementGuid>
+      <webElementGuid>cd92dfc3-d159-44a0-aa6d-486782863379</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='checkout_form']/div/div[2]/a</value>
-      <webElementGuid>8ff6dd3e-7a3a-41ac-9e46-dcca69f49e9f</webElementGuid>
+      <webElementGuid>aee33c9f-8413-4317-b185-7fa3ce6c7f7d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tính lại'])[1]/following::a[1]</value>
-      <webElementGuid>d1899e27-c8c3-4f69-b269-5e1dfbca6689</webElementGuid>
+      <webElementGuid>9e8a8cb7-fb3c-4622-a7b5-c246ca6902e3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/following::a[1]</value>
-      <webElementGuid>162d8780-b341-41d2-b755-ce2e4256a3cd</webElementGuid>
+      <webElementGuid>1dd3c26f-8b39-4b0d-a313-1b7e24b0bbaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/preceding::a[1]</value>
-      <webElementGuid>98a56af9-af99-4e63-9dd7-1ab339c18f75</webElementGuid>
+      <webElementGuid>4de4bc95-733d-41b2-a5f8-4a62a3e96a1f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, 'https://zshop.vn/checkout-checkout.html')]</value>
-      <webElementGuid>a741687a-1d99-46f1-a8e5-26a89b27fa27</webElementGuid>
+      <webElementGuid>0a186b33-242c-40fb-94a4-1a3c3d02699e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div[2]/a</value>
-      <webElementGuid>644f7ddb-adcb-4cf4-9843-d00d48ffc423</webElementGuid>
+      <webElementGuid>e5dac861-10dd-4314-9984-b2331be1e9d6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://zshop.vn/checkout-checkout.html' and (text() = 'Tiến hành thanh toán' or . = 'Tiến hành thanh toán')]</value>
-      <webElementGuid>7120997b-02e7-49ca-b819-18466d018650</webElementGuid>
+      <webElementGuid>50626770-8f37-496f-96fa-9353d3f92e01</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1376677e-7add-4134-b75f-c43a81fc14e0</webElementGuid>
+      <webElementGuid>633faa3f-5987-4510-970a-562eb7c278f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,15 +31,15 @@
       <name>text</name>
       <type>Main</type>
       <value>Xem giỏ hàng</value>
-      <webElementGuid>8c87058b-f733-47a5-ade3-9eb007ca56da</webElementGuid>
+      <webElementGuid>6743e654-e929-43f4-b01f-d5f069093abd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;cookies filereader draganddrop no-touchevents mouseevents&quot;]/body[@class=&quot;fixed-top show screen--sm-large&quot;]/div[@class=&quot;cm-notification-content cm-notification-content-extended notification-content-extended  cm-auto-hide&quot;]/div[@class=&quot;notification-body-extended&quot;]/div[@class=&quot;ty-product-notification__buttons clearfix&quot;]/div[@class=&quot;ty-float-right&quot;]/a[@class=&quot;ty-btn ty-btn__primary&quot;]/span[1]</value>
-      <webElementGuid>3ff30758-6a1d-43c5-997f-233863b15bd3</webElementGuid>
+      <value>/html[@class=&quot;cookies filereader draganddrop no-touchevents mouseevents&quot;]/body[@class=&quot;screen--sm-large&quot;]/div[@class=&quot;cm-notification-content cm-notification-content-extended notification-content-extended  cm-auto-hide&quot;]/div[@class=&quot;notification-body-extended&quot;]/div[@class=&quot;ty-product-notification__buttons clearfix&quot;]/div[@class=&quot;ty-float-right&quot;]/a[@class=&quot;ty-btn ty-btn__primary&quot;]/span[1]</value>
+      <webElementGuid>b8b4ac42-2391-4489-89c3-9308766382a7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/following::span[1]</value>
-      <webElementGuid>7fb438f7-727d-45ea-99d2-3fc813fdb235</webElementGuid>
+      <webElementGuid>bafc5ceb-47ef-453d-8090-e35d29720b06</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div[2]/a/span</value>
-      <webElementGuid>15972827-da84-4ec3-876e-06df8e2775a7</webElementGuid>
+      <webElementGuid>35e07cd0-65cd-4146-a482-4d718e4596d2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,6 +63,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Xem giỏ hàng' or . = 'Xem giỏ hàng')]</value>
-      <webElementGuid>807ac41d-7b99-443c-8af8-88e17754c6a3</webElementGuid>
+      <webElementGuid>85d335fb-c07f-4331-9a99-64e1f0ff01a6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

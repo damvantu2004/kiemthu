@@ -25,13 +25,13 @@ WebUI.click(findTestObject('Object Repository/Page_zShop - Siu th k thut s My nh
 
 WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) Chnh hng  _656c31/span_Mua hng'))
 
-WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) Chnh hng  _656c31/a_Xem gi hng'))
+WebUI.click(findTestObject('Object Repository/Page_Fujifilm X-M5 (BlackSilver) Chnh hng  _656c31/span_Xem gi hng'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tip tc mua hng'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/span_Tip tc mua hng'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/a_Tin hnh thanh ton'))
+WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Ni dung gi hng/span_Tin hnh thanh ton'))
 
-WebUI.takeScreenshotAsCheckpoint('ui_cart_top')
+WebUI.takeScreenshotAsCheckpoint('ui_login_button')
 
 WebUI.closeBrowser()
 

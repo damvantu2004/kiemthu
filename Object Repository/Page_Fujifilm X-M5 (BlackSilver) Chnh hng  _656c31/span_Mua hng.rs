@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>5f143ed9-b6cd-47aa-ab0f-01e59c252a76</webElementGuid>
+      <webElementGuid>b81298e0-daff-4b0c-a577-2065743bccdf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mua hàng</value>
-      <webElementGuid>fb374f55-d5d0-4007-bcc2-7f88445bffde</webElementGuid>
+      <webElementGuid>23a24e34-9946-4099-8986-774dce7c0173</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;button_cart_66732&quot;)/span[1]/span[1]</value>
-      <webElementGuid>1573f50d-c915-4e80-8819-6f4fdc7323a1</webElementGuid>
+      <webElementGuid>bfc5d67a-10f8-4fde-8ee8-5d06fa608453</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='button_cart_66732']/span/span</value>
-      <webElementGuid>971f0c1b-8c8d-4122-b94e-1e7cedbc2786</webElementGuid>
+      <webElementGuid>8802d20d-54d5-45a7-9a87-8094dab40df4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Số lượng:'])[1]/following::span[2]</value>
-      <webElementGuid>0c9db713-ae7c-4954-ad69-18d9c63df530</webElementGuid>
+      <webElementGuid>5b21bebe-ad2d-4740-85ee-b4242d26e4f5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Black'])[1]/following::span[2]</value>
-      <webElementGuid>ba24e1ba-9c8f-451f-a202-7a9dcdd4305c</webElementGuid>
+      <webElementGuid>67b0f217-1c3e-40d3-aa1b-60cfe3673dd6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua nhanh'])[1]/preceding::span[1]</value>
-      <webElementGuid>7f9e6635-e2a4-4b0d-b901-f874f7d22e43</webElementGuid>
+      <webElementGuid>c9ff6c77-cf3e-4733-8d72-70142c8fe0c7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mua ngay - trả sau'])[1]/preceding::span[2]</value>
-      <webElementGuid>bca755a7-5be6-4a15-a718-c7995172b139</webElementGuid>
+      <webElementGuid>433f898c-3f45-432f-84c8-e7560d261414</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mua hàng']/parent::*</value>
-      <webElementGuid>8179d71d-2841-489a-a980-cbb77410569f</webElementGuid>
+      <webElementGuid>e71b81a2-36e2-48e2-ada5-3a20441cd15e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[6]/div/button/span/span</value>
-      <webElementGuid>dfc99efc-bf13-4ae8-8062-feba7a16de43</webElementGuid>
+      <webElementGuid>6db824e6-1c46-4d38-b4b0-0c85298b5a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Mua hàng' or . = 'Mua hàng')]</value>
-      <webElementGuid>0d7d4b73-99e9-4e83-b672-258357fd71a5</webElementGuid>
+      <webElementGuid>946c8f2c-68b7-461e-918f-b69a11cee948</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

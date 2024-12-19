@@ -6,12 +6,12 @@
    <elementGuidId>7087bb3e-1f6f-4361-9ca2-6a11cf79084d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>a.ty-btn.ty-btn__primary > span</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='checkout_form']/div/div[2]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.ty-btn.ty-btn__primary > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>de6d9232-fe90-46fb-9211-5e025cec17cd</webElementGuid>
+      <webElementGuid>1852ac6b-b108-434d-be5f-bdff824c439d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiến hành thanh toán</value>
-      <webElementGuid>23119ed4-f883-4766-9b05-535e358944e6</webElementGuid>
+      <webElementGuid>0ecbca36-1355-49a2-a311-b1125336420e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_form&quot;)/div[@class=&quot;buttons-container ty-cart-content__top-buttons clearfix&quot;]/div[@class=&quot;ty-float-right ty-cart-content__right-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__primary&quot;]/span[1]</value>
-      <webElementGuid>777e6db6-0e98-4754-9863-e6e2df190c55</webElementGuid>
+      <webElementGuid>093b4917-c97d-445d-a5ba-7ca1a6341d30</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='checkout_form']/div/div[2]/a/span</value>
-      <webElementGuid>2e875a06-9599-4ab1-89f2-daa698dc4d6b</webElementGuid>
+      <webElementGuid>1e84b865-ee72-43d0-a1ba-102f845ff831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tính lại'])[1]/following::span[1]</value>
-      <webElementGuid>5341a6ff-3377-4472-8757-a90ce313835a</webElementGuid>
+      <webElementGuid>058f3721-da4c-4ff0-a665-e8a13ca62396</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/following::span[2]</value>
-      <webElementGuid>5fba594d-b1e6-4af0-a531-e9b28ce30871</webElementGuid>
+      <webElementGuid>c347e1b3-2844-4ad9-9a38-225701b92c7c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/preceding::span[1]</value>
-      <webElementGuid>81517214-c73d-444d-8e6b-c6b408e2e910</webElementGuid>
+      <webElementGuid>2ae4dbf1-a557-40ca-9418-a5d14423b16a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn giá'])[1]/preceding::span[1]</value>
-      <webElementGuid>c29c00fe-ceb6-42f8-8e31-d2d92c6119c3</webElementGuid>
+      <webElementGuid>fcca8eca-b745-42ea-b167-3f0b470b975b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Tiến hành thanh toán']/parent::*</value>
-      <webElementGuid>c1c73b6b-5368-4f51-85c8-c7052c51f88a</webElementGuid>
+      <webElementGuid>742224ae-995c-4346-88dc-6cfa786d6a14</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/a/span</value>
-      <webElementGuid>3c1fe914-06a7-4a84-9587-4a3ed460923b</webElementGuid>
+      <webElementGuid>870ad529-8fea-4460-895b-1ca36eb2fd61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,6 +103,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Tiến hành thanh toán' or . = 'Tiến hành thanh toán')]</value>
-      <webElementGuid>2b88495c-e232-4233-b389-bc47489abe69</webElementGuid>
+      <webElementGuid>a7c7fd9b-0f2f-4726-8444-e7a5b9753734</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

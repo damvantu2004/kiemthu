@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value></value>
+         <value>//form[@id='checkout_form']/div/div/a</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>81bc0f9e-b5bb-4221-924b-94721a2495e4</webElementGuid>
+      <webElementGuid>4ce43ea1-7141-4bf6-aaf3-d51bca25ad9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://zshop.vn/may-anh-mirrorless-fujifilm/</value>
-      <webElementGuid>d365c0f2-ab56-426c-ac1b-178740391b0a</webElementGuid>
+      <webElementGuid>a26f7d36-515c-4879-b424-41712e99d122</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-btn ty-btn__secondary </value>
-      <webElementGuid>cb995415-6c61-4d6e-9a64-37d81542e58f</webElementGuid>
+      <webElementGuid>ff584aad-22b5-4f81-9d2c-9d7192e23527</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Tiếp tục mua hàng</value>
-      <webElementGuid>21a0c77c-e9a4-4460-b6c4-6396cb4ff216</webElementGuid>
+      <webElementGuid>99d3c725-4f02-401c-914c-57cbaa9087a1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;checkout_form&quot;)/div[@class=&quot;buttons-container ty-cart-content__top-buttons clearfix&quot;]/div[@class=&quot;ty-float-left ty-cart-content__left-buttons&quot;]/a[@class=&quot;ty-btn ty-btn__secondary&quot;]</value>
-      <webElementGuid>5d084de5-377f-4898-bf18-376e6353e86e</webElementGuid>
+      <webElementGuid>330a86d2-6cbe-401c-a539-61a75404d0ad</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='checkout_form']/div/div/a</value>
-      <webElementGuid>365b1e23-adbc-4029-aad8-bce047d4a57b</webElementGuid>
+      <webElementGuid>599f79cf-79c0-4500-8c0f-fd888d43a727</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Nội dung giỏ hàng'])[2]/following::a[1]</value>
-      <webElementGuid>f2a4864d-4fe1-4ea7-93ed-95a2694dae2a</webElementGuid>
+      <webElementGuid>6520a92f-5172-48fd-b85a-0676e0dae4f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::a[1]</value>
-      <webElementGuid>1640e08c-aec2-45f4-9160-02f32591eefc</webElementGuid>
+      <webElementGuid>ee0b2d7a-6334-469b-8daf-176f2af1696a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tính lại'])[1]/preceding::a[1]</value>
-      <webElementGuid>1a130c88-e6d6-45a7-825d-ae0cc2f1908d</webElementGuid>
+      <webElementGuid>8d0d01b6-0e87-4832-9261-09212c651d6f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://zshop.vn/may-anh-mirrorless-fujifilm/')])[2]</value>
-      <webElementGuid>cacff6c6-8c3f-460d-a37c-c46beb72caba</webElementGuid>
+      <webElementGuid>668cdc47-514c-4967-921a-3af242665c2a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/div/a</value>
-      <webElementGuid>f50f57f0-a326-428f-bada-d877fe444ddc</webElementGuid>
+      <webElementGuid>1155bc1e-41a1-46a0-b05b-c5909e74b961</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,6 +111,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://zshop.vn/may-anh-mirrorless-fujifilm/' and (text() = 'Tiếp tục mua hàng' or . = 'Tiếp tục mua hàng')]</value>
-      <webElementGuid>76e1a904-4994-4c37-94e8-48d76d3888d4</webElementGuid>
+      <webElementGuid>b89da71a-f752-488b-a7e5-404ae8a3118d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

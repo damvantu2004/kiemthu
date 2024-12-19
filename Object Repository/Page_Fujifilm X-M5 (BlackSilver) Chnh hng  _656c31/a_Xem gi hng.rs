@@ -23,7 +23,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>115b648c-9201-44ce-b815-67c740a12403</webElementGuid>
+      <webElementGuid>da004c08-314a-4e8e-aefd-5aaec352e34b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -31,7 +31,7 @@
       <name>href</name>
       <type>Main</type>
       <value>https://zshop.vn/checkout-cart.html</value>
-      <webElementGuid>6e39d3e6-1da6-42e0-80e8-871b3b19554d</webElementGuid>
+      <webElementGuid>4810b739-d844-482f-9c46-749605d20f4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -39,7 +39,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ty-btn ty-btn__primary </value>
-      <webElementGuid>2e935226-548a-46aa-af38-42e2e941d352</webElementGuid>
+      <webElementGuid>ef770aca-b2bc-4f0f-816b-444e845491d7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -47,7 +47,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Xem giỏ hàng</value>
-      <webElementGuid>284f3102-7c2d-420f-b479-dcc891384fbe</webElementGuid>
+      <webElementGuid>34c81158-670b-442b-bb60-fb22058710c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -55,7 +55,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;cookies filereader draganddrop no-touchevents mouseevents&quot;]/body[@class=&quot;screen--sm-large&quot;]/div[@class=&quot;cm-notification-content cm-notification-content-extended notification-content-extended  cm-auto-hide&quot;]/div[@class=&quot;notification-body-extended&quot;]/div[@class=&quot;ty-product-notification__buttons clearfix&quot;]/div[@class=&quot;ty-float-right&quot;]/a[@class=&quot;ty-btn ty-btn__primary&quot;]</value>
-      <webElementGuid>e90d561a-e8e4-4dc0-870d-ff2ebf0c1e53</webElementGuid>
+      <webElementGuid>d055ff6b-0c56-4763-81be-8a028e6e9fc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Tiếp tục mua hàng'])[1]/following::a[1]</value>
-      <webElementGuid>c51f0591-3345-44d6-9979-255537d9df22</webElementGuid>
+      <webElementGuid>8d404b5a-83e1-4455-ae86-ccb61884d692</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, 'https://zshop.vn/checkout-cart.html')])[2]</value>
-      <webElementGuid>7d37a96d-992f-4f20-9620-4afea39655f6</webElementGuid>
+      <webElementGuid>873b2f13-b8cf-4510-8c55-f897ed54a767</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -79,7 +79,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div[2]/div[2]/a</value>
-      <webElementGuid>02b998e5-f0e5-4c82-b47f-c7b3ad8e83a9</webElementGuid>
+      <webElementGuid>f825fbdb-cc5f-4796-ac81-079616e38ef5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,6 +87,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = 'https://zshop.vn/checkout-cart.html' and (text() = 'Xem giỏ hàng' or . = 'Xem giỏ hàng')]</value>
-      <webElementGuid>7efe1439-49cb-492a-961a-0d7f5cfdaff1</webElementGuid>
+      <webElementGuid>d7eb6260-2e68-4f0f-98a7-9bd8003611e0</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
